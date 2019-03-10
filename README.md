@@ -1,5 +1,5 @@
 # Paradigmas de Programação - ELC117-2018a
-[Sobre a disciplina](#sobre-a-disciplina) | [Avaliações](#avaliações) | [Trabalhos](#trabalhos) | [Práticas](#práticas)
+[Sobre a disciplina](#sobre-a-disciplina) | [Avaliações](#avaliações) | [Slides](#slides) | [Trabalhos](#trabalhos) | [Práticas](#práticas)
 
 
 Primeiro semestre de 2019  
@@ -27,9 +27,13 @@ Sala: 368, CT - Práticas: 334, CT
 
 
 
+## Slides
 
+Disponíveis na pasta [slides](slides). 
 
 ## Trabalhos
+
+Disponíveis na pasta [trabalhos](trabalhos).
 
 <!--
  1. [Programação funcional em Haskell](trabalhos/t1) (entrega até domingo, 18/03/2018, 23:59)
@@ -42,6 +46,8 @@ Sala: 368, CT - Práticas: 334, CT
 -->
 
 ## Práticas
+
+Disponíveis na pasta [praticas](praticas).
 
 <!--
  - Haskell: [(1)](praticas/funcional/haskell01) [(2)](praticas/funcional/haskell02) [(3)](praticas/funcional/haskell03) [(4)](praticas/funcional/haskell04) 
