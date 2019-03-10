@@ -47,7 +47,7 @@ EM BREVE disponíveis na pasta [trabalhos](trabalhos).
 
 ## Práticas
 
-EM BREVE Disponíveis na pasta [praticas](praticas).
+EM BREVE disponíveis na pasta [praticas](praticas).
 
 <!--
  - Haskell: [(1)](praticas/funcional/haskell01) [(2)](praticas/funcional/haskell02) [(3)](praticas/funcional/haskell03) [(4)](praticas/funcional/haskell04) 
