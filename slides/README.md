@@ -8,6 +8,8 @@ Slides
    - [Geração de listas em Haskell](https://docs.google.com/presentation/d/1JVFCTYwsn0iDCTbmG4SkkpE81A-xsDqH7kn4wmiiQoA/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1JVFCTYwsn0iDCTbmG4SkkpE81A-xsDqH7kn4wmiiQoA/export/pdf)
    - [Condicionais e recursividade em Haskell](https://docs.google.com/presentation/d/1SCBQmwFbHvp4Bme74kRvkV3fyCUeg9Bw_D4eI7fUUt4/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1SCBQmwFbHvp4Bme74kRvkV3fyCUeg9Bw_D4eI7fUUt4/export/pdf)
    - [Exemplo com I/O: validação de CPF em Haskell](https://docs.google.com/presentation/d/13rufXdcsRziVncW4lMmGIVGYohuARZS2bViJaUJlaJg/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/13rufXdcsRziVncW4lMmGIVGYohuARZS2bViJaUJlaJg/export/pdf)
+
+<!--
 - Paradigma lógico
    - [Introdução à programação lógica](https://docs.google.com/presentation/d/1YfAJmPQRsDpr3V0_A9I8SaxBFKeM-TyqTvmN6XnAWHc/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1YfAJmPQRsDpr3V0_A9I8SaxBFKeM-TyqTvmN6XnAWHc/export/pdf)
    - [Fatos, regras, consultas e variáveis em Prolog](https://docs.google.com/presentation/d/1VSONXQPshN0Bc-49fSI_oDCJawNpT310wEkU-3VdH9A/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1VSONXQPshN0Bc-49fSI_oDCJawNpT310wEkU-3VdH9A/export/pdf)
@@ -29,7 +31,7 @@ Slides
   - [Threads em Java](https://drive.google.com/file/d/1lY3Ys0k_bNgOcZCntxK7VcYKZhFEs1p6/view?usp=drivesdk)
   - [Problemas clássicos de programação concorrente](https://drive.google.com/file/d/1XoPe8UjF5Td4yBIGOsESlzMCtw9lwcvL/view?usp=drivesdk)
 
-<!--
+
 https://docs.google.com/presentation/d/1nTHSZMyDT0DxJpxd3nU4LPCDImgAuqvLC8XLzPibMnw/edit?usp=sharing
 
 https://drive.google.com/open?id=10M7otpa1_Z18zxB2__zvGbCofInx_CZ5lpbX_RvOooA
