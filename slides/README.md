@@ -1,13 +1,20 @@
 Slides
 ------
 
-- [Introdução à disciplina](https://docs.google.com/presentation/d/1SZ2F6yJBt_IIC4nx2LD4iThwgZKGbGDDIhKxgBlKrgw/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1SZ2F6yJBt_IIC4nx2LD4iThwgZKGbGDDIhKxgBlKrgw/export/pdf)
+https://docs.google.com/presentation/d/1YU6OexoXhtVoF9Ee1TDA3I4Soj8idP2hj_1e3oPow0w/edit?usp=sharing
+https://docs.google.com/presentation/d/1radbQzSjKypFXijyhcrLbqTKUaIzRxOA2qzVDylLtiU/edit?usp=sharing
+https://docs.google.com/presentation/d/1NmHKpv41HZ2-enZrcicLFzTwFSpP8sbpWC-Cugz7FFA/edit?usp=sharing
+https://docs.google.com/presentation/d/19dlzcfDaVMIx1KKaaM4gxlrzW7zuVZe8hd8awFKvjHg/edit?usp=sharing
+https://docs.google.com/presentation/d/1fsgiOBp123mVJwu8Y_O-C5wpr1zgmTwFswcFLIyffUo/edit?usp=sharing
+https://docs.google.com/presentation/d/1qSTpBu_DrdSljdTteYwq5oDGkygq4SkrSV2_zOC-tbw/edit?usp=sharing
+
+- [Introdução à disciplina](https://docs.google.com/presentation/d/1YU6OexoXhtVoF9Ee1TDA3I4Soj8idP2hj_1e3oPow0w/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1YU6OexoXhtVoF9Ee1TDA3I4Soj8idP2hj_1e3oPow0w/export/pdf)
 - Paradigma funcional
-   - [Introdução à programação funcional](https://docs.google.com/presentation/d/1jzz4HZhEmPwXvG9wCPAcJsEqZnXzMiGCwLRaNJwy4lI/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1jzz4HZhEmPwXvG9wCPAcJsEqZnXzMiGCwLRaNJwy4lI/export/pdf)
-   - [Funções em Haskell](https://docs.google.com/presentation/d/1oodGjHp6E7FyOvhaZ9Wb6G9obBzQBJZAvnie7ba2Wno/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1oodGjHp6E7FyOvhaZ9Wb6G9obBzQBJZAvnie7ba2Wno/export/pdf)
-   - [Geração de listas em Haskell](https://docs.google.com/presentation/d/1JVFCTYwsn0iDCTbmG4SkkpE81A-xsDqH7kn4wmiiQoA/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1JVFCTYwsn0iDCTbmG4SkkpE81A-xsDqH7kn4wmiiQoA/export/pdf)
-   - [Condicionais e recursividade em Haskell](https://docs.google.com/presentation/d/1SCBQmwFbHvp4Bme74kRvkV3fyCUeg9Bw_D4eI7fUUt4/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1SCBQmwFbHvp4Bme74kRvkV3fyCUeg9Bw_D4eI7fUUt4/export/pdf)
-   - [Exemplo com I/O: validação de CPF em Haskell](https://docs.google.com/presentation/d/13rufXdcsRziVncW4lMmGIVGYohuARZS2bViJaUJlaJg/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/13rufXdcsRziVncW4lMmGIVGYohuARZS2bViJaUJlaJg/export/pdf)
+   - [Introdução à programação funcional](https://docs.google.com/presentation/d/1qSTpBu_DrdSljdTteYwq5oDGkygq4SkrSV2_zOC-tbw/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1qSTpBu_DrdSljdTteYwq5oDGkygq4SkrSV2_zOC-tbw/export/pdf)
+   - [Funções em Haskell](https://docs.google.com/presentation/d/1NmHKpv41HZ2-enZrcicLFzTwFSpP8sbpWC-Cugz7FFA/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1NmHKpv41HZ2-enZrcicLFzTwFSpP8sbpWC-Cugz7FFA/export/pdf)
+   - [Geração de listas em Haskell](https://docs.google.com/presentation/d/19dlzcfDaVMIx1KKaaM4gxlrzW7zuVZe8hd8awFKvjHg/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/19dlzcfDaVMIx1KKaaM4gxlrzW7zuVZe8hd8awFKvjHg/export/pdf)
+   - [Condicionais e recursividade em Haskell](https://docs.google.com/presentation/d/1fsgiOBp123mVJwu8Y_O-C5wpr1zgmTwFswcFLIyffUo/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1fsgiOBp123mVJwu8Y_O-C5wpr1zgmTwFswcFLIyffUo/export/pdf)
+   - [Exemplo com I/O: validação de CPF em Haskell](https://docs.google.com/presentation/d/1radbQzSjKypFXijyhcrLbqTKUaIzRxOA2qzVDylLtiU/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1radbQzSjKypFXijyhcrLbqTKUaIzRxOA2qzVDylLtiU/export/pdf)
 
 <!--
 - Paradigma lógico
