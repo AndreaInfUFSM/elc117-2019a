@@ -1,13 +1,6 @@
 Slides
 ------
 
-https://docs.google.com/presentation/d/1YU6OexoXhtVoF9Ee1TDA3I4Soj8idP2hj_1e3oPow0w/edit?usp=sharing
-https://docs.google.com/presentation/d/1radbQzSjKypFXijyhcrLbqTKUaIzRxOA2qzVDylLtiU/edit?usp=sharing
-https://docs.google.com/presentation/d/1NmHKpv41HZ2-enZrcicLFzTwFSpP8sbpWC-Cugz7FFA/edit?usp=sharing
-https://docs.google.com/presentation/d/19dlzcfDaVMIx1KKaaM4gxlrzW7zuVZe8hd8awFKvjHg/edit?usp=sharing
-https://docs.google.com/presentation/d/1fsgiOBp123mVJwu8Y_O-C5wpr1zgmTwFswcFLIyffUo/edit?usp=sharing
-https://docs.google.com/presentation/d/1qSTpBu_DrdSljdTteYwq5oDGkygq4SkrSV2_zOC-tbw/edit?usp=sharing
-
 - [Introdução à disciplina](https://docs.google.com/presentation/d/1YU6OexoXhtVoF9Ee1TDA3I4Soj8idP2hj_1e3oPow0w/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1YU6OexoXhtVoF9Ee1TDA3I4Soj8idP2hj_1e3oPow0w/export/pdf)
 - Paradigma funcional
    - [Introdução à programação funcional](https://docs.google.com/presentation/d/1qSTpBu_DrdSljdTteYwq5oDGkygq4SkrSV2_zOC-tbw/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1qSTpBu_DrdSljdTteYwq5oDGkygq4SkrSV2_zOC-tbw/export/pdf)
