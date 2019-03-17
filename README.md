@@ -31,6 +31,18 @@ Sala: 368, CT - Práticas: 334, CT
 
 Disponíveis na pasta [slides](slides). 
 
+## Práticas
+
+Disponíveis na pasta [praticas](praticas). 
+
+ <!--[
+ - Haskell: [(1)](praticas/funcional/haskell01) 
+(2)](praticas/funcional/haskell02) [(3)](praticas/funcional/haskell03) [(4)](praticas/funcional/haskell04) 
+ - Testes (quizzes) de Haskell com correção automática: [(1)](https://testmoz.com/471285/) [(2)](https://testmoz.com/471302/)
+ - Prolog: [(1)](praticas/logico/prolog1) [(2)](praticas/logico/prolog2) [(3)](praticas/logico/prolog3) [(4)](praticas/logico/prolog4)
+
+ -->
+
 ## Trabalhos
 
 EM BREVE disponíveis na pasta [trabalhos](trabalhos).
@@ -44,15 +56,4 @@ EM BREVE disponíveis na pasta [trabalhos](trabalhos).
  6. [Planarity puzzle com JavaFX](trabalhos/t6) (entrega até terça, 12/06/2018, 23:59)
  7. [Dashboard para monitoramento de frota de ônibus urbanos](trabalhos/t7) (entrega até domingo, 01/07/2018, 23:59)
 -->
-
-## Práticas
-
-EM BREVE disponíveis na pasta [praticas](praticas).
-
-<!--
- - Haskell: [(1)](praticas/funcional/haskell01) [(2)](praticas/funcional/haskell02) [(3)](praticas/funcional/haskell03) [(4)](praticas/funcional/haskell04) 
- - Testes (quizzes) de Haskell com correção automática: [(1)](https://testmoz.com/471285/) [(2)](https://testmoz.com/471302/)
- - Prolog: [(1)](praticas/logico/prolog1) [(2)](praticas/logico/prolog2) [(3)](praticas/logico/prolog3) [(4)](praticas/logico/prolog4)
-
- -->
 
