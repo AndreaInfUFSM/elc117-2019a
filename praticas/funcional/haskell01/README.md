@@ -90,7 +90,7 @@ Depois, este arquivo precisa ser **carregado** no interpretador:
 
 ## 3. Programação
 
-Para fazer os exercícios abaixo, você vai usar [**funções de alta ordem (map, filter, etc.)**](http://learnyouahaskell.com/higher-order-functions) e [**funções anônimas**](http://learnyouahaskell.com/higher-order-functions#lambdas).
+Para fazer os exercícios abaixo, você vai usar [**funções de alta ordem (map, filter, etc.)**](https://docs.google.com/presentation/d/1UKi2vkIMiNdScn_m7CidoSBzZ9b4j1ppCSPKYYFjxIk/edit?usp=sharing) e [**funções anônimas**](https://docs.google.com/presentation/d/1zxqEsvCegZhxfwjjxElIkNjY-pqmLvpEnq9Mt0YBR9Y/edit?usp=sharing).
 
 1. Crie uma função `sumSquares :: Int -> Int -> Int` que calcule a soma dos quadrados de dois números x e y.
 
@@ -100,11 +100,11 @@ Para fazer os exercícios abaixo, você vai usar [**funções de alta ordem (map
 
 4. Crie uma função que receba uma string e retorne o número de espaços nela contidos. Dica: aplique 2 funções consecutivamente.
 
-5. Escreva uma função que, dada uma lista de números, calcule `3*n^2 + 2/n + 1` para cada número n da lista. Dica: defina uma [**função anônima**](http://learnyouahaskell.com/higher-order-functions#lambdas).
+5. Escreva uma função que, dada uma lista de números, calcule `3*n^2 + 2/n + 1` para cada número n da lista. Dica: defina uma [**função anônima**](https://docs.google.com/presentation/d/1zxqEsvCegZhxfwjjxElIkNjY-pqmLvpEnq9Mt0YBR9Y/edit?usp=sharing).
 
 6. Escreva uma função que, dada uma lista de números, selecione somente os que forem negativos.
 
-7. Escreva uma função que receba uma lista de números e retorne somente os que estiverem entre 1 e 100, inclusive. Dica 1: defina uma [**função anônima**](http://learnyouahaskell.com/higher-order-functions#lambdas). Dica 2: use o operador `&&` para expressar um 'E' lógico.
+7. Escreva uma função que receba uma lista de números e retorne somente os que estiverem entre 1 e 100, inclusive. Dica 1: defina uma [**função anônima**](https://docs.google.com/presentation/d/1zxqEsvCegZhxfwjjxElIkNjY-pqmLvpEnq9Mt0YBR9Y/edit?usp=sharing). Dica 2: use o operador `&&` para expressar um 'E' lógico.
 
 8. Escreva uma função que, dada uma lista de idades de pessoas no ano atual, retorne uma lista somente com as idades de quem nasceu depois de 1980. Para testar a condição, sua função deverá subtrair a idade do ano atual.
 
@@ -127,3 +127,9 @@ Para fazer os exercícios abaixo, você vai usar [**funções de alta ordem (map
    > takeWhile (< 5) [1,2,3,4,5]
    > takeWhile (/=' ') "Fulana de Tal"
    ```
+
+## Para saber mais
+
+Consulte as seções abaixo no tutorial [Learn you a Haskell for great good](http://learnyouahaskell.com), de Miran Lipovača:
+- [Funções de alta ordem (map, filter, etc.)](http://learnyouahaskell.com/higher-order-functions) 
+- [Funções anônimas](http://learnyouahaskell.com/higher-order-functions#lambdas)
