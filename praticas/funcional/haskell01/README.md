@@ -119,7 +119,7 @@ Para fazer os exercícios abaixo, você vai usar [**funções de alta ordem (map
    True  
    ```
 
-11. Crie uma função que receba uma lista de nomes e retorne outra lista com somente aqueles nomes que terminarem com a letra 'a'. Dica: conheça o [list monster](http://s3.amazonaws.com/lyah/listmonster.png) :-)
+11. Crie uma função que receba uma lista de nomes e retorne outra lista com somente aqueles nomes que terminarem com a letra 'a'. Dica: conheça o [list monster](http://s3.amazonaws.com/lyah/listmonster.png), do autor Miran Lipovača :-)
 
 12. A função `takeWhile :: (a -> Bool) -> [a] -> [a]` é uma **função de alta ordem**. Ela recebe uma função condicional e uma lista, retornando o "menor prefixo" (isto é, porção inicial) da lista que satisfaça a condição dada. Teste os exemplos abaixo no GHCi e depois crie um novo exemplo:
 
