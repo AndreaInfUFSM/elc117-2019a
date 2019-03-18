@@ -67,7 +67,7 @@ Depois, este arquivo precisa ser **carregado** no interpretador:
 
 2. Abra o interpretador Haskell e teste as funções em cada um dos casos abaixo. 
 
-```haskell
+   ```haskell
    square 2 + 1
    square (2+1)
    isEven 8
@@ -111,7 +111,6 @@ Para fazer os exercícios abaixo, você vai usar [**funções de alta ordem (map
 9. Escreva uma função que receba uma lista de números e retorne somente aqueles que forem pares.
 
 10. Crie uma função `charFound :: Char -> String -> Bool` que verifique se o caracter (primeiro argumento) está contido na string (segundo argumento). Exemplos de uso da função:
-
    ```
    > charFound 'a' ""  
    False  
@@ -122,7 +121,6 @@ Para fazer os exercícios abaixo, você vai usar [**funções de alta ordem (map
 11. Crie uma função que receba uma lista de nomes e retorne outra lista com somente aqueles nomes que terminarem com a letra 'a'. Dica: conheça o [list monster](http://s3.amazonaws.com/lyah/listmonster.png), do autor Miran Lipovača :-)
 
 12. A função `takeWhile :: (a -> Bool) -> [a] -> [a]` é uma **função de alta ordem**. Ela recebe uma função condicional e uma lista, retornando o "menor prefixo" (isto é, porção inicial) da lista que satisfaça a condição dada. Teste os exemplos abaixo no GHCi e depois crie um novo exemplo:
-
    ```
    > takeWhile (< 5) [1,2,3,4,5]
    > takeWhile (/=' ') "Fulana de Tal"
