@@ -111,12 +111,12 @@ Para fazer os exercícios abaixo, você vai usar [**funções de alta ordem (map
 9. Escreva uma função que receba uma lista de números e retorne somente aqueles que forem pares.
 
 10. Crie uma função `charFound :: Char -> String -> Bool` que verifique se o caracter (primeiro argumento) está contido na string (segundo argumento). Exemplos de uso da função:
-   ```
-   > charFound 'a' ""  
-   False  
-   > charFound 'a' "uau"  
-   True  
-   ```
+    ```
+    > charFound 'a' ""  
+    False  
+    > charFound 'a' "uau"  
+    True  
+    ```
 
 11. Crie uma função que receba uma lista de nomes e retorne outra lista com somente aqueles nomes que terminarem com a letra 'a'. Dica: conheça o [list monster](http://s3.amazonaws.com/lyah/listmonster.png), do autor Miran Lipovača :-)
 
