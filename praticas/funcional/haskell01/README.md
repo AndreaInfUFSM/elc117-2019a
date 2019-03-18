@@ -130,6 +130,6 @@ Para fazer os exercícios abaixo, você vai usar [**funções de alta ordem (map
 
 ## Para saber mais
 
-Consulte as seções abaixo no tutorial [Learn you a Haskell for great good](http://learnyouahaskell.com), de Miran Lipovača:
+Consulte as seções abaixo no livro [Learn you a Haskell for Great Good!](http://learnyouahaskell.com), de Miran Lipovača:
 - [Funções de alta ordem (map, filter, etc.)](http://learnyouahaskell.com/higher-order-functions) 
 - [Funções anônimas](http://learnyouahaskell.com/higher-order-functions#lambdas)
