@@ -126,7 +126,12 @@ Para fazer os exercícios abaixo, você vai usar [**funções de alta ordem (map
     > takeWhile (/=' ') "Fulana de Tal"
     ```
 
-## Para saber mais
+## 3. Soluções
+
+Após resolver os exercícios, consulte as soluções [aqui](solucoes-haskell01.hs)
+
+
+## 4. Para saber mais
 
 Consulte as seções abaixo no livro [Learn you a Haskell for Great Good!](http://learnyouahaskell.com), de Miran Lipovača:
 - [Funções de alta ordem (map, filter, etc.)](http://learnyouahaskell.com/higher-order-functions) 
