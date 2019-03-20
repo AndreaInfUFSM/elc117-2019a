@@ -45,7 +45,7 @@ Disponíveis na pasta [praticas](praticas).
 
 ## Trabalhos
 
-EM BREVE disponíveis na pasta [trabalhos](trabalhos).
+Disponíveis na pasta [trabalhos](trabalhos).
 
 <!--
  1. [Programação funcional em Haskell](trabalhos/t1) (entrega até domingo, 18/03/2018, 23:59)
