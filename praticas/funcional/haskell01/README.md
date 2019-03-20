@@ -128,7 +128,7 @@ Para fazer os exercícios abaixo, você vai usar [**funções de alta ordem (map
 
 ## 3. Soluções
 
-Após resolver os exercícios, consulte as soluções [aqui](solucoes-haskell01.hs)
+Após resolver os exercícios, consulte as soluções [aqui](solucoes-haskell01.hs).
 
 
 ## 4. Para saber mais
