@@ -44,28 +44,28 @@ Para fazer estes exercícios, consulte os slides sobre [geração de listas em H
 
 13. Em Haskell, a função `zip` combina elementos de duas listas, produzindo uma lista de tuplas. Por exemplo:
 
-   ```
-   > zip [1,2] "ab"
-   [(1,'a'),(2,'b')]
-   > zip [1..] "abcde"
-   [(1,'a'),(2,'b'),(3,'c'),(4,'d'),(5,'e')]
-   ```
+    ```
+    > zip [1,2] "ab"
+    [(1,'a'),(2,'b')]
+    > zip [1..] "abcde"
+    [(1,'a'),(2,'b'),(3,'c'),(4,'d'),(5,'e')]
+    ```
    
-   Usando a função `zip` com *list comprehension* e outras funções auxiliares, escreva uma função `dotProd :: [Int] -> [Int] -> [Int]` que calcule o somatório dos produtos dos pares de elementos de duas listas, conforme o exemplo:
+    Usando a função `zip` com *list comprehension* e outras funções auxiliares, escreva uma função `dotProd :: [Int] -> [Int] -> [Int]` que calcule o somatório dos produtos dos pares de elementos de duas listas, conforme o exemplo:
 
-   ```
-   > dotProd [1,1,1,1] [2,2,2,2] -- 1*2 + 1*2 + 1*2 + 1*2
-   8
-   ```
+    ```
+    > dotProd [1,1,1,1] [2,2,2,2] -- 1*2 + 1*2 + 1*2 + 1*2
+    8
+    ```
 
 14. Nesta questão você também deverá usar *list comprehension*. Suponha   que   um   retângulo   seja   representado   por   uma   [tupla](http://learnyouahaskell.com/starting-out#tuples) `(Float,Float,Float,Float)`, contendo respectivamente as coordenadas x e y do ponto no seu canto superior esquerdo, seguidas das suas medidas de largura e altura. Sabendo que o eixo x cresce de cima para baixo e o eixo y   da   esquerda   para   direita,   crie   uma   função `genRects :: Int -> (Int,Int) -> [(Float,Float,Float,Float)]` que receba um número N   e   um   ponto   (x,y)   e   gere   uma   sequência   de   N   retângulos   não sobrepostos.  Os retângulos devem ser alinhados pelos seus topos, a partir do ponto dado, com largura e altura constantes. Por exemplo, usando largura e altura iguais a 5.5: 
 
-   ```
-   > genRects 3 (0,0) 
-   [(0.0,0.0,5.5,5.5),(5.5,0.0,5.5,5.5),(11.0,0.0,5.5,5.5)]
-   ```
+    ```
+    > genRects 3 (0,0) 
+    [(0.0,0.0,5.5,5.5),(5.5,0.0,5.5,5.5),(11.0,0.0,5.5,5.5)]
+    ```
 
-   Obs.: Use conversão explícita de tipos quando misturar Int e Float.
+    Obs.: Use conversão explícita de tipos quando misturar Int e Float.
    
    
 15. Em Haskell, a função `zipWith` é uma função de alta ordem que aplica uma função a pares de elementos de duas listas. Pesquise sobre a função `zipWith` e utilize-a para definir uma função `dotProd'`, que produza o mesmo resultado da função `dotProd` do exercício 13.
