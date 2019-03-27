@@ -36,9 +36,9 @@ Para fazer estes exercícios, consulte os slides sobre [geração de listas em H
 
 11. Qual será o resultado de cada expressão abaixo?
 
-   - a) `[ (x,y) | x <- [1..5], even x, y <- [(x + 1)..6], odd y ]`
-   - b) `[ a ++ b | a <- ["lazy","big"], b <- ["frog", "dog"]]`
-   - c) `concat [ [a,'-'] | a <- "paralelepipedo", not (elem a "aeiou")]`
+    - a) `[ (x,y) | x <- [1..5], even x, y <- [(x + 1)..6], odd y ]`
+    - b) `[ a ++ b | a <- ["lazy","big"], b <- ["frog", "dog"]]`
+    - c) `concat [ [a,'-'] | a <- "paralelepipedo", not (elem a "aeiou")]`
 
 12. Defina uma função `selectSnd :: [(Int,Int)] -> [Int]`, que receba uma lista de [tuplas](http://learnyouahaskell.com/starting-out#tuples) e selecione somente os segundos elementos dessas tuplas, produzindo outra lista. Use *list comprehension*.
 
@@ -50,7 +50,8 @@ Para fazer estes exercícios, consulte os slides sobre [geração de listas em H
    > zip [1..] "abcde"
    [(1,'a'),(2,'b'),(3,'c'),(4,'d'),(5,'e')]
    ```
-Usando a função `zip` com *list comprehension* e outras funções auxiliares, escreva uma função `dotProd :: [Int] -> [Int] -> [Int]` que calcule o somatório dos produtos dos pares de elementos de duas listas, conforme o exemplo:
+   
+   Usando a função `zip` com *list comprehension* e outras funções auxiliares, escreva uma função `dotProd :: [Int] -> [Int] -> [Int]` que calcule o somatório dos produtos dos pares de elementos de duas listas, conforme o exemplo:
 
    ```
    > dotProd [1,1,1,1] [2,2,2,2] -- 1*2 + 1*2 + 1*2 + 1*2
@@ -65,6 +66,7 @@ Usando a função `zip` com *list comprehension* e outras funções auxiliares, 
    ```
 
    Obs.: Use conversão explícita de tipos quando misturar Int e Float.
+   
    
 15. Em Haskell, a função `zipWith` é uma função de alta ordem que aplica uma função a pares de elementos de duas listas. Pesquise sobre a função `zipWith` e utilize-a para definir uma função `dotProd'`, que produza o mesmo resultado da função `dotProd` do exercício 13.
 
