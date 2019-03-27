@@ -1,7 +1,5 @@
 # Prática: Programação funcional em Haskell
 
-http://www.cse.unsw.edu.au/~en1000/haskell/inbuilt.html
-
 Para fazer estes exercícios, consulte os slides sobre [geração de listas em Haskell](https://docs.google.com/presentation/d/14AVjYb2PCF93LEosxo8JMGep_oqVmRshU9Dzc2CvvBQ/edit?usp=sharing).
 
 1. Usando *list comprehension*, defina uma função `add10toall :: [Int] -> [Int]`, que receba uma lista e adicione o valor 10 a cada elemento dessa lista, produzindo outra lista. Exemplo:
