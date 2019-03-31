@@ -23,7 +23,7 @@ Para fazer estes exercícios, consulte os slides sobre [geração de listas em H
 
 5. Usando *list comprehension*, defina uma função `selectgt5 :: [Int] -> [Int]`, que receba uma lista e selecione somente os valores maiores que 5, produzindo outra lista.
 
-6. Usando *list comprehension*, defina uma função `sumOdds :: [Int] -> [Int]`, que receba uma lista e obtenha o somatório dos valores ímpares, produzindo outra lista. Pesquise funções auxiliares que manipulem listas.
+6. Usando *list comprehension*, defina uma função `sumOdds :: [Int] -> Int`, que receba uma lista e obtenha o somatório dos valores ímpares, produzindo outra lista. Pesquise funções auxiliares que manipulem listas.
 
 7. Usando *list comprehension*, defina uma função `selectExpr :: [Int] -> [Int]`, que receba uma lista e selecione somente os **valores pares entre 20 e 50**, produzindo outra lista.
 
@@ -51,7 +51,7 @@ Para fazer estes exercícios, consulte os slides sobre [geração de listas em H
     [(1,'a'),(2,'b'),(3,'c'),(4,'d'),(5,'e')]
     ```
    
-    Usando a função `zip` com *list comprehension* e outras funções auxiliares, escreva uma função `dotProd :: [Int] -> [Int] -> [Int]` que calcule o somatório dos produtos dos pares de elementos de duas listas, conforme o exemplo:
+    Usando a função `zip` com *list comprehension* e outras funções auxiliares, escreva uma função `dotProd :: [Int] -> [Int] -> Int` que calcule o somatório dos produtos dos pares de elementos de duas listas, conforme o exemplo:
 
     ```
     > dotProd [1,1,1,1] [2,2,2,2] -- 1*2 + 1*2 + 1*2 + 1*2
