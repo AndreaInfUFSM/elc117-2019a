@@ -8,6 +8,6 @@ Para fazer estes exercícios, consulte os slides sobre [uso de let, where e I/O 
 
 3. Modifique o código para incluir a parte de I/O que espera o usuário digitar o CPF (ver último slide).
 
-4. Reescreva os códigos fornecidos (no programa de exemplo e nos slides) substituindo let por where e vice-versa.
+4. Reescreva os códigos fornecidos (no programa de exemplo e nos slides) substituindo `let .. in` por `where` e vice-versa.
 
 
