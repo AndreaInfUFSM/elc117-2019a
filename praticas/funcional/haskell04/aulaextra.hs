@@ -51,6 +51,7 @@ func8 x s = (x, x*2, s)
   1) Função que recebe lista de strings e concatena a primeira com a última
   2) Função que recebe string e concatena o primeiro caracter com o último
   3) Função que recebe lista de inteiros e soma os 2 primeiros
+ *4) Função que recebe uma lista de floats e retorne o tamanho da lista desconsiderando o inicio e o fim dela
   Obs.: Poucos exemplos aqui, pois o mais comum é ter que percorrer a lista elemento por elemento
 -}
 
@@ -58,11 +59,14 @@ funclis1 :: [String] -> String
 funclis1 lis = head lis ++ last lis
 
 funclis2 :: String -> String -- String equivale a [Char]
-funclis2 str = [head str] ++ [last str] 
+funclis2 str = [head str] ++ [last str]
 -- operador '++' concatena listas, mas head/last vão retornar Char, então resolve-se colocando resultados entre colchetes
 
 funclis3 :: [Int] -> Int
 funclis3 lis = (head lis) + (head (tail lis))
+
+funclis4 :: [Float] -> Int
+funclis4 lis = length (tail(init lis))
 
 {-
   ==> Alta ordem: map
@@ -114,6 +118,7 @@ horder8 lis = map aux8 lis
   1) Somar 2 a cada elemento de uma lista e multiplicar o resultado por 3
   2) Para cada string em uma lista, concatená-la com "..."
   3) Para cada string em uma lista, concatená-la com "..." caso comprimento menor que 5
+  *4) Para uma lista de floats, aplicar a expressão x^2 / 6 se o número for par e x*8 se o número for ímpar
 -}
 
 maplambda1 :: [Int] -> [Int]
@@ -125,13 +130,15 @@ maplambda2 lis = map (\x -> x++"...") lis
 maplambda3 :: [String] -> [String]
 maplambda3 lis = map (\x -> if length x < 5 then x++"..." else x) lis
 
-
+maplambda4 :: [Float] -> [Float]
+maplambda4 lis = map (\x -> even x then x^2 / 6 else x*8) lis
 {-
   ==> Alta ordem: filter
   Exemplos de funções que utilizam a função de alta ordem filter, sem usar lambda (funções anônimas)
   1) Selecionar inteiros menores que 5
   2) Em uma string, selecionar caracteres diferentes de ' '
   3) Em uma string, selecionar caracteres vogais
+ *4) Em uma lista de inteiros, retornar todos que são divisíveis por 3 e 4 ao mesmo tempo
 -}
 
 filter1 :: [Int] -> [Int]
@@ -150,6 +157,12 @@ filter3a str = filter auxfilter3a str
 auxfilter3b c = c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u'
 filter3b :: String -> String
 filter3b str = filter auxfilter3b str
+
+filter4  :: [Int] -> [Int]
+filter4 lis = filter auxfilter4 lis
+
+auxfilter4 :: Int -> Bool
+auxfilter4 x = mod x 3 == 0 && mod x 4 == 0
 
 
 {-
@@ -171,6 +184,7 @@ Funcerr3 lis = (head lis)*2
 
 funcerr4 :: String -> String
 funcerr4 str = filter (/=' ') lis
+
 -}
 
 {-
