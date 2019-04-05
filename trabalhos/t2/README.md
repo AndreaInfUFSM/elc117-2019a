@@ -12,8 +12,8 @@ Você deverá gerar no mínimo 4 padrões diferentes, inspirados nas figuras aba
 
 | Caso 1 | Caso 2 | Caso 3 | Caso 4 |  
 | :---: | :---: | :---: | :---: |  
-| <img src="case1.png" width="150"> | <img src="case2.png" width="150"> | <img src="case3.png" width="150"> | <img src="case4.png" width="150"> |  
-| [case1.svg](case1.svg) | [case2.svg](case2.svg) | [case3.svg](case3.svg) | [case4.svg](case4.svg) |  
+| <img src="figs/case1.png" width="150"> | <img src="figs/case2.png" width="150"> | <img src="figs/case3.png" width="150"> | <img src="figs/case4.png" width="150"> |  
+| [case1.svg](figs/case1.svg) | [case2.svg](figs/case2.svg) | [case3.svg](figs/case3.svg) | [case4.svg](figs/case4.svg) |  
 
 Para isso, seu programa nomeado `t2.hs` deverá implementar 4 funções: 
 - `genCase1 :: IO ()` : gera matriz de retângulos de cores diferentes
@@ -24,6 +24,13 @@ Para isso, seu programa nomeado `t2.hs` deverá implementar 4 funções:
 A geração de figuras e cores deve ser feita programaticamente, por meio de funções que você terá que definir. Nessas funções, evite usar valores *hard-coded*. Calcule posições e cores a partir de argumentos passados para as funções, definindo constantes quando necessário.
 
 As figuras que você vai gerar não precisam ser idênticas aos casos acima, mas devem seguir os mesmos padrões. Para cada caso, você pode variar as cores, a quantidade de figuras, a quantidade de repetições e o espaçamento entre as figuras.
+
+## Dicas
+
+- As funções trigonométricas `sin` e `cos` do Haskell recebem argumento em radianos.
+- Relembre como se faz a conversão de graus para radianos.
+- Haskell tem a constante `pi` pré-definida.
+- Relembre o que você já estudou sobre as equações paramétricas da circunferência.
 
 
 ## Entrega
