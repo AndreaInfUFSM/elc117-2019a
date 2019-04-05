@@ -1,0 +1,20 @@
+<svg width='1500.00' height='500.00' xmlns='http://www.w3.org/2000/svg'>
+<circle cx='160.000' cy='160.000' r='50.00' style='fill:rgb(255,0,0); mix-blend-mode: screen;'/>
+<circle cx='210.000' cy='160.000' r='50.00' style='fill:rgb(0,255,0); mix-blend-mode: screen;'/>
+<circle cx='185.000' cy='110.000' r='50.00' style='fill:rgb(0,0,255); mix-blend-mode: screen;'/>
+<circle cx='160.000' cy='320.000' r='50.00' style='fill:rgb(255,0,0); mix-blend-mode: screen;'/>
+<circle cx='210.000' cy='320.000' r='50.00' style='fill:rgb(0,255,0); mix-blend-mode: screen;'/>
+<circle cx='185.000' cy='270.000' r='50.00' style='fill:rgb(0,0,255); mix-blend-mode: screen;'/>
+<circle cx='320.000' cy='160.000' r='50.00' style='fill:rgb(255,0,0); mix-blend-mode: screen;'/>
+<circle cx='370.000' cy='160.000' r='50.00' style='fill:rgb(0,255,0); mix-blend-mode: screen;'/>
+<circle cx='345.000' cy='110.000' r='50.00' style='fill:rgb(0,0,255); mix-blend-mode: screen;'/>
+<circle cx='320.000' cy='320.000' r='50.00' style='fill:rgb(255,0,0); mix-blend-mode: screen;'/>
+<circle cx='370.000' cy='320.000' r='50.00' style='fill:rgb(0,255,0); mix-blend-mode: screen;'/>
+<circle cx='345.000' cy='270.000' r='50.00' style='fill:rgb(0,0,255); mix-blend-mode: screen;'/>
+<circle cx='480.000' cy='160.000' r='50.00' style='fill:rgb(255,0,0); mix-blend-mode: screen;'/>
+<circle cx='530.000' cy='160.000' r='50.00' style='fill:rgb(0,255,0); mix-blend-mode: screen;'/>
+<circle cx='505.000' cy='110.000' r='50.00' style='fill:rgb(0,0,255); mix-blend-mode: screen;'/>
+<circle cx='480.000' cy='320.000' r='50.00' style='fill:rgb(255,0,0); mix-blend-mode: screen;'/>
+<circle cx='530.000' cy='320.000' r='50.00' style='fill:rgb(0,255,0); mix-blend-mode: screen;'/>
+<circle cx='505.000' cy='270.000' r='50.00' style='fill:rgb(0,0,255); mix-blend-mode: screen;'/>
+</svg>
