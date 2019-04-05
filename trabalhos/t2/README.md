@@ -10,10 +10,10 @@ Neste trabalho, você vai criar um programa em Haskell para gerar arquivos em fo
 
 Você deverá gerar no mínimo 4 padrões diferentes, inspirados nas figuras abaixo:
 
-|  Caso 1   | Caso 2   | Caso 3  | Caso 4  |   
+|  Caso 1   | Caso 2   | Caso 3  | Caso 4  |
 |:---:|:-:|---|:-:|:-:|:-:|---|
-|  <img src="case1.png" width="150">1   |  <img src="case2.png" width="150">  |  <img src="case3.png" width="150">  |  <img src="case4.png" width="150">  |   
-| [case1.svg](case1.svg) | [case2.svg](case2.svg) | [case3.svg](case3.svg) | [case4.svg](case4.svg) 
+|  <img src="case1.png" width="150">1   |  <img src="case2.png" width="150">  |  <img src="case3.png" width="150">  |  <img src="case4.png" width="150">  |
+| [case1.svg](case1.svg) | [case2.svg](case2.svg) | [case3.svg](case3.svg) | [case4.svg](case4.svg) |
 
 Para isso, seu programa nomeado `t2.hs` deverá implementar 4 funções: 
 - `genCase1 :: IO ()` : gera matriz de retângulos de cores diferentes
