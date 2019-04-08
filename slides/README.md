@@ -12,12 +12,14 @@ Slides
    - [Condicionais e recursividade em Haskell](https://docs.google.com/presentation/d/19dlzcfDaVMIx1KKaaM4gxlrzW7zuVZe8hd8awFKvjHg/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/19dlzcfDaVMIx1KKaaM4gxlrzW7zuVZe8hd8awFKvjHg/export/pdf)
 
 
-<!--
+
 - Paradigma lógico
    - [Introdução à programação lógica](https://docs.google.com/presentation/d/1YfAJmPQRsDpr3V0_A9I8SaxBFKeM-TyqTvmN6XnAWHc/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1YfAJmPQRsDpr3V0_A9I8SaxBFKeM-TyqTvmN6XnAWHc/export/pdf)
    - [Fatos, regras, consultas e variáveis em Prolog](https://docs.google.com/presentation/d/1VSONXQPshN0Bc-49fSI_oDCJawNpT310wEkU-3VdH9A/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1VSONXQPshN0Bc-49fSI_oDCJawNpT310wEkU-3VdH9A/export/pdf)
    - [Listas em Prolog](https://docs.google.com/presentation/d/1NVpOmgzxU2RjHyuSr3wo61J7nfEosCYPBrBUsgsERNI/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1NVpOmgzxU2RjHyuSr3wo61J7nfEosCYPBrBUsgsERNI/export/pdf)
    - [Processo de inferência em Prolog](https://docs.google.com/presentation/d/1YPOfpZK-gsOVCjzLwsRAk_X4MoCZK7TwL51wubNP3VU/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1YPOfpZK-gsOVCjzLwsRAk_X4MoCZK7TwL51wubNP3VU/export/pdf)
+
+<!--
 - Paradigma orientado a objetos
    - [Introdução à programação orientada a objetos](https://docs.google.com/presentation/d/1dgMv-YJt-bQ6QBvKs4ws04kgH4XicCP851SsFP8CyJY/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1dgMv-YJt-bQ6QBvKs4ws04kgH4XicCP851SsFP8CyJY/export/pdf)
    - [Encapsulamento, classes e objetos em Java](https://docs.google.com/presentation/d/10M7otpa1_Z18zxB2__zvGbCofInx_CZ5lpbX_RvOooA/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/10M7otpa1_Z18zxB2__zvGbCofInx_CZ5lpbX_RvOooA/export/pdf)
