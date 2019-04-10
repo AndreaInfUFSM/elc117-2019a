@@ -89,7 +89,7 @@ Nos exercícios abaixo, considere a seguinte base de fatos e regras sobre pessoa
    A = 1987.
    ```
    
-7. Em Prolog, listas são tipos de dados nativos. Como em Haskell e muitas outras linguagens, uma lista se representa com colchetes. Existem também vários predicados pré-definidos que manipulam listas. Teste (copie e cole) as consultas abaixo com os predicados `member`, `length` e `nextto`:
+7. Em Prolog, listas são tipos de dados nativos. Como em Haskell e muitas outras linguagens, uma lista se representa com colchetes. Existem também vários predicados pré-definidos que manipulam listas. Teste (copie e cole) as consultas abaixo com os predicados `member`, `length` e `nextto`(em caso de erro, identifique o motivo):
 
    ```prolog
    ?- member(a, [a,b,c]).
