@@ -46,9 +46,9 @@ As figuras que você vai gerar não precisam ser idênticas aos casos acima, mas
 
 ## Ideias de atividades personalizadas
 
- 1. Implemente outos padrões geométricos à sua escolha, produzindo outros casos além dos 4 acima. Veja algumas ideias aqui: https://en.wikipedia.org/wiki/Overlapping_circles_grid
+ 1. Implemente outros padrões geométricos à sua escolha, produzindo outros casos além dos 4 acima. Veja algumas ideias aqui: https://en.wikipedia.org/wiki/Overlapping_circles_grid
 
- 2. Implemente diferentes paletas de cores, usando informações sobre teoria de cores. Por exemplo, descubra como converter cores HSC para RGB e implemente a geração de uma paleta tipo 'arco-íris'.
+ 2. Implemente diferentes paletas de cores, usando informações sobre teoria de cores. Por exemplo, descubra como converter cores HSV para RGB e implemente a geração de uma paleta tipo 'arco-íris'.
 
  3. Implemente uma interface que facilite a escolha de diferentes formas e cores no seu programa.
 
