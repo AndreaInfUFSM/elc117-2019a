@@ -4,21 +4,23 @@
 ## Exercícios
 
 
-1. Defina um predicado `ao_lado(X, Y, L)` para determinar se X está imediatamente ao lado de Y na lista L. Neste caso, X pode estar imediatamente à esquerda OU à direita de Y. Você pode usar o predicado `nextto`.
+1. Defina um predicado `is_member(A, L)` para determinar se o elemento A faz parte da lista L.
 
-2. Defina um predicado `um_entre(X, Y, L)` para determinar se os elementos X e Y da lista L estão separados por exatamente um elemento. Você pode usar o predicado `nextto`. Abaixo estão exemplos de consultas com o predicado `um_entre`:
-```prolog
-?- um_entre(b,c,[a,b,c,d]).
-false.
-?- um_entre(b,d,[a,b,c,d]).
-true .
-?- um_entre(a,d,[a,b,c,d]).
-false.
-```
+2. Defina um predicado `ao_lado(X, Y, L)` para determinar se X está imediatamente ao lado de Y na lista L. Neste caso, X pode estar imediatamente à esquerda OU à direita de Y. Você pode usar o predicado `nextto`.
 
-3. Veja [aqui](Einstein.md) a descrição de um problema de lógica e sua resolução em Prolog. Estude o código da solução (o código usa os predicados `nextto` e `ao_lado`).
+3. Defina um predicado `um_entre(X, Y, L)` para determinar se os elementos X e Y da lista L estão separados por exatamente um elemento. Você pode usar o predicado `nextto`. Abaixo estão exemplos de consultas com o predicado `um_entre`:
+   ```prolog
+   ?- um_entre(b,c,[a,b,c,d]).
+   false.
+   ?- um_entre(b,d,[a,b,c,d]).
+   true .
+   ?- um_entre(a,d,[a,b,c,d]).
+   false.
+   ```
 
-4. Seguindo o exemplo anterior, resolva o problema de lógica descrito em http://rachacuca.com.br/logica/problemas/esquadrilha-de-avioes/. Nesse problema, há uma esquadrilha de 5 aviões em um show aéreo. Cada um deles solta fumaça de uma cor e possui uma anomalia diferente. Além disso, os aviões são comandados por cinco experientes pilotos que praticam um esporte cada um, além de preferirem uma bebida distinta. Sua tarefa é encontrar todas as informações a partir das seguintes dicas:  
+4. Você conhece um desafio que circula pela Internet chamado de Charada de Einstein (ou [Enigma de Einsten](https://super.abril.com.br/ideias/charada-atribuida-a-einsten-da-no-no-cerebro-e-vira-hit-na-web/))? Veja [aqui](Einstein.md) a descrição de um problema de lógica e sua resolução em Prolog. Estude o código da solução (o código usa os predicados `nextto` e `ao_lado`).
+
+5. Seguindo o exemplo anterior, resolva o problema de lógica descrito em http://rachacuca.com.br/logica/problemas/esquadrilha-de-avioes/. Nesse problema, há uma esquadrilha de 5 aviões em um show aéreo. Cada um deles solta fumaça de uma cor e possui uma anomalia diferente. Além disso, os aviões são comandados por cinco experientes pilotos que praticam um esporte cada um, além de preferirem uma bebida distinta. Sua tarefa é encontrar todas as informações a partir das seguintes dicas:  
 
     1. O avião do Cel. Milton solta fumaça vermelha.
     2. O rádio transmissor do Ten. Walter está com problemas.
@@ -39,7 +41,7 @@ false.
     17. Há um avião com problema de temperatura.
     18. Dica final: use o predicado `um_entre` criado em outro exercício.
 
-5. Abaixo encontram-se 2 definições para um predicado que permite verificar se uma lista contém somente números maiores que zero. Você acha que uma das implementações pode ser mais eficiente que a outra? Dica: busque informações sobre o predicado `time` do SWI-Prolog, que permite verificar a quantidade de inferências realizadas numa dada consulta.
+6. Abaixo encontram-se 2 definições para um predicado que permite verificar se uma lista contém somente números maiores que zero. Você acha que uma das implementações pode ser mais eficiente que a outra? Dica: busque informações sobre o predicado `time` do SWI-Prolog, que permite verificar a quantidade de inferências realizadas numa dada consulta.
 
    ```prolog
    positivos1([],[]).
@@ -51,7 +53,7 @@ false.
    positivos2([H|T],L) :- H =< 0, positivos2(T,L).
    ```
 
-6. Abaixo encontram-se 2 definições para um predicado que permite encontrar o maior elemento em uma lista de inteiros. Você acha que uma das implementações pode ser mais eficiente que a outra?
+7. Abaixo encontram-se 2 definições para um predicado que permite encontrar o maior elemento em uma lista de inteiros. Você acha que uma das implementações pode ser mais eficiente que a outra?
 
    ```prolog
    largest1([X],X).
@@ -63,4 +65,4 @@ false.
    aux([X|Xs], M, N) :-
       M1 is max(X, M),
       aux(Xs, M1, N).
-```
+   ```
