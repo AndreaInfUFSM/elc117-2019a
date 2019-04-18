@@ -41,7 +41,7 @@
     17. Há um avião com problema de temperatura.
     18. Dica final: use o predicado `um_entre` criado em outro exercício.
 
-6. Abaixo encontram-se 2 definições para um predicado que permite verificar se uma lista contém somente números maiores que zero. Você acha que uma das implementações pode ser mais eficiente que a outra? Dica: busque informações sobre o predicado `time` do SWI-Prolog, que permite verificar a quantidade de inferências realizadas numa dada consulta.
+6. Abaixo encontram-se 2 definições para um predicado que filtra uma lista, selecionando os números maiores que zero. Você acha que uma das implementações pode ser mais eficiente que a outra? Dica: busque informações sobre o predicado `time` do SWI-Prolog, que permite verificar a quantidade de inferências realizadas numa dada consulta.
 
    ```prolog
    positivos1([],[]).
