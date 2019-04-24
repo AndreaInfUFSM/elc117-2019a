@@ -121,7 +121,6 @@ Em Prolog, usa-se `is` quando se deseja o resultado de uma expressão aritmétic
     Dica: defina um predicado auxiliar.
 
 
-
-
+12. Exercício em construção :-) Aguarde enunciado.
 
 
