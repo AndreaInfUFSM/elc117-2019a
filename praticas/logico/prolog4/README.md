@@ -105,20 +105,20 @@ Em Prolog, usa-se `is` quando se deseja o resultado de uma expressão aritmétic
 
 10. Defina um predicado **recursivo** `zipmult(L1,L2,L3)`, de forma que cada elemento da lista L3 seja **o produto** dos elementos de L1 e L2 na mesma posição do elemento de L3. Exemplo:
    
-   ```
-   ?- zipmult([1,2,3],[2,2,2],L). 
-   L = [2, 4, 6].
-   ```
+    ```
+    ?- zipmult([1,2,3],[2,2,2],L). 
+    L = [2, 4, 6].
+    ```
 
 11. Defina um predicado **recursivo** `potencias(N,L)`, de forma que L seja uma lista com as N primeiras potências de 2, sendo a primeira 2^0 e assim por diante, conforme o exemplo abaixo:
 
-   ```
-   ?- potencias(5,L). 
-   L = [1, 2, 4, 8, 16]
-   ?- potencias(0,L).
-   L = []
-   ```
-   Dica: defina um predicado auxiliar.
+    ```
+    ?- potencias(5,L). 
+    L = [1, 2, 4, 8, 16]
+    ?- potencias(0,L).
+    L = []
+    ```
+    Dica: defina um predicado auxiliar.
 
 
 
