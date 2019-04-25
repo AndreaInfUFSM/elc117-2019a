@@ -6,7 +6,7 @@
 
 Para fazer os exercícios abaixo, consulte os slides sobre [Listas e recursão em Prolog](https://docs.google.com/presentation/d/1NVpOmgzxU2RjHyuSr3wo61J7nfEosCYPBrBUsgsERNI/edit?usp=sharing). 
 
-Os exercícios deverão ser entregues como [t3](../../trabalhos/t3). As atividades de aquecimento não precisam ser entregues. Para resolver os exercícios, você pode usar/definir predicados auxiliares.
+Os exercícios deverão ser entregues como [t3](../../../trabalhos/t3). As atividades de aquecimento não precisam ser entregues. Para resolver os exercícios, você pode usar/definir predicados auxiliares.
 
 ## Aquecimento
 
