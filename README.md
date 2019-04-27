@@ -33,15 +33,15 @@ Disponíveis na pasta [slides](slides).
 
 ## Práticas
 
-Disponíveis na pasta [praticas](praticas). 
-
- <!--[
+ - Testes (quizzes) de Prolog com correção automática: [(1)](https://testmoz.com/466816) [(2)](https://testmoz.com/466920)
+ - Prolog: [(1)](praticas/logico/prolog1) [(2)](praticas/logico/prolog2) [(3)](praticas/logico/prolog3) [(4)](praticas/logico/prolog4)
+ - Testes (quizzes) de Haskell com correção automática: [(1)](https://testmoz.com/471285/) [(2)](https://testmoz.com/471302/)
  - Haskell: [(1)](praticas/funcional/haskell01) 
 (2)](praticas/funcional/haskell02) [(3)](praticas/funcional/haskell03) [(4)](praticas/funcional/haskell04) 
- - Testes (quizzes) de Haskell com correção automática: [(1)](https://testmoz.com/471285/) [(2)](https://testmoz.com/471302/)
- - Prolog: [(1)](praticas/logico/prolog1) [(2)](praticas/logico/prolog2) [(3)](praticas/logico/prolog3) [(4)](praticas/logico/prolog4)
 
- -->
+Veja também a pasta [praticas](praticas). 
+
+
 
 ## Trabalhos
 

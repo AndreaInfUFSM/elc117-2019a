@@ -121,6 +121,13 @@ Em Prolog, usa-se `is` quando se deseja o resultado de uma expressão aritmétic
     Dica: defina um predicado auxiliar.
 
 
-12. Exercício em construção :-) Aguarde enunciado.
+12. Defina um predicao **recursivo** `cedulas(V,L1,L2)`, que receba um valor V e uma lista L1 de cédulas com valores em Reais (R$), em ordem decrescente, e obtenha a lista L2 decompondo o valor V em 0 ou mais cédulas de cada tipo. Exemplo:
+
+    ```
+    ?- cedulas(423,[100,50,20,10,5,2,1],L).
+    L = [4, 0, 1, 0, 0, 1, 1].
+    ```
+    Obs.: O resultado acima significa 4 cédulas de 100, 0 de 50, 1 de 20, e assim por diante.
+
 
 
