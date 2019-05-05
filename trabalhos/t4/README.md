@@ -15,7 +15,7 @@ Poirot estabeleceu que as armas do crime poderiam ser:
 - O martelo que foi roubado da caixa de ferramentas do apartamento na quarta ou na quinta-feira.
 
 
-O assassino entrou no quarto de Anita utilizando a chave que roubou dela. Esta chave foi roubada na quarta-feira em Santa Maria ou na terça-feira em Porto Alegre. Dinheiro foi roubado do quarto de Anita e sua amiga Bia, que é pobre, tem uma cópia da chave.
+O assassino entrou no quarto de Anita utilizando a chave que roubou dela. Esta chave foi roubada na ~~quarta-feira~~ **segunda-feira** em Santa Maria ou na terça-feira em Porto Alegre. Dinheiro foi roubado do quarto de Anita e sua amiga Bia, que é pobre, tem uma cópia da chave.
 Anita tem um relacionamento com Bernardo, que por sua vez teve um relacionamento com a garota rica Caren. Além disso, Anita teve um relacionamento com Pedro, que é pobre e namorou com a garota rica Alice. Alice namorou com o igualmente rico Henrique. Henrique tinha sido noivo de Maria, que é pobre. Maria costumava sair com Adriano, que é rico, e já namorou com a menina rica Caren.
 
 Pedro estava em Santa Maria na segunda e na terça-feira, em Porto Alegre na quarta, em Santa Maria novamente na quinta e depois voltou ao apartamento. 
