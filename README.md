@@ -17,6 +17,7 @@ Sala: 368, CT - Práticas: 334, CT
  
 ## Avaliações
 
+ - [Notas](https://docs.google.com/spreadsheets/d/1OLdch_xhipUHtFkNK2N7tqzRbDimqm-3aSY9xlTqlNU/edit?usp=sharing)
  - [Guia de Pontuação](https://docs.google.com/spreadsheets/d/1MalI_RPqpU6DQX6ayu5xojrOY7Kxvs-IF49cZuv9xEo/edit?usp=sharing): a avaliação será baseada na pontuação acumulada individualmente com a realização de atividades.  
  - [Entrega de atividades personalizadas](https://docs.google.com/forms/d/e/1FAIpQLSeLcmaFYzm42CEMQE7Lvz9FXOoZt4LLmVr1FE6RR2qSiinEtg/viewform): coloque suas atividades dentro de uma pasta `perso` no seu repositório e preencha este formulário
  - Datas para avaliações orais:  
