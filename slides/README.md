@@ -19,14 +19,16 @@ Slides
    - [Listas em Prolog](https://docs.google.com/presentation/d/1NVpOmgzxU2RjHyuSr3wo61J7nfEosCYPBrBUsgsERNI/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1NVpOmgzxU2RjHyuSr3wo61J7nfEosCYPBrBUsgsERNI/export/pdf)
    - [Processo de inferência em Prolog](https://docs.google.com/presentation/d/1YPOfpZK-gsOVCjzLwsRAk_X4MoCZK7TwL51wubNP3VU/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1YPOfpZK-gsOVCjzLwsRAk_X4MoCZK7TwL51wubNP3VU/export/pdf)
 
-<!--
+
 - Paradigma orientado a objetos
-   - [Introdução à programação orientada a objetos](https://docs.google.com/presentation/d/1dgMv-YJt-bQ6QBvKs4ws04kgH4XicCP851SsFP8CyJY/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1dgMv-YJt-bQ6QBvKs4ws04kgH4XicCP851SsFP8CyJY/export/pdf)
-   - [Encapsulamento, classes e objetos em Java](https://docs.google.com/presentation/d/10M7otpa1_Z18zxB2__zvGbCofInx_CZ5lpbX_RvOooA/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/10M7otpa1_Z18zxB2__zvGbCofInx_CZ5lpbX_RvOooA/export/pdf)
-   - [Uso de static em Java](https://docs.google.com/presentation/d/1XRWVcxtssibNMllYdj4BEwUow0pUcauGBKATEiipnfA/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1XRWVcxtssibNMllYdj4BEwUow0pUcauGBKATEiipnfA/export/pdf)
-   - [Herança em Java](https://docs.google.com/presentation/d/1nTHSZMyDT0DxJpxd3nU4LPCDImgAuqvLC8XLzPibMnw/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1nTHSZMyDT0DxJpxd3nU4LPCDImgAuqvLC8XLzPibMnw/export/pdf)
-   - [Polimorfismo em Java](https://docs.google.com/presentation/d/1svZj1GZrA6jMvXQsr-o5xI9dgoBOs5Gk2UmAevPiEQo/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1svZj1GZrA6jMvXQsr-o5xI9dgoBOs5Gk2UmAevPiEQo/export/pdf)
-   - [Classes abstratas e interfaces](https://docs.google.com/presentation/d/1j1YV2bV4f45-q-AgQbfqOVt60qSok8Trkj3Z17M3UKg/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1j1YV2bV4f45-q-AgQbfqOVt60qSok8Trkj3Z17M3UKg/export/pdf)
+   - [Introdução à programação orientada a objetos](https://drive.google.com/open?id=1S3Deuzbxmx71AIxZufadF7MTFq26WQ3_4ug4AtXcXi4) [(PDF)](https://docs.google.com/presentation/d/1S3Deuzbxmx71AIxZufadF7MTFq26WQ3_4ug4AtXcXi4/export/pdf)
+   - [Encapsulamento, classes e objetos em Java](https://drive.google.com/open?id=1gVL3iW0lVzdgd9AsydBhKV-0xmP8-zYIfx_ujlBGDR4) [(PDF)](https://docs.google.com/presentation/d/1gVL3iW0lVzdgd9AsydBhKV-0xmP8-zYIfx_ujlBGDR4/export/pdf)
+   - [Uso de static em Java](https://drive.google.com/open?id=1k91FdgKAtmLQAyRfXFNjb9gRRE-x4uPdvse1n1XpcKs) [(PDF)](https://docs.google.com/presentation/d/1k91FdgKAtmLQAyRfXFNjb9gRRE-x4uPdvse1n1XpcKs/export/pdf)
+   - [Herança em Java](https://drive.google.com/open?id=1aOk2_Tuf37KRNUo1bvrDXFQe9o_J2PLEY19eJaZE59w) [(PDF)](https://docs.google.com/presentation/d/1aOk2_Tuf37KRNUo1bvrDXFQe9o_J2PLEY19eJaZE59w/export/pdf)
+   - [Polimorfismo em Java](https://drive.google.com/open?id=1RloxoaouSMFlVk7p3phR8cUbW3AyyeU3z08i9frApZY) [(PDF)](https://docs.google.com/presentation/d/1RloxoaouSMFlVk7p3phR8cUbW3AyyeU3z08i9frApZY/export/pdf)
+   - [Classes abstratas e interfaces](https://drive.google.com/open?id=1RloxoaouSMFlVk7p3phR8cUbW3AyyeU3z08i9frApZY) [(PDF)](https://docs.google.com/presentation/d/1RloxoaouSMFlVk7p3phR8cUbW3AyyeU3z08i9frApZY/export/pdf)
+
+<!--
    - [Interfaces gráficas em Java](https://docs.google.com/presentation/d/1nwcBZscvpQDCY7xux7FaKWrSzn8VTJDKpm7mI5uoLJg/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1nwcBZscvpQDCY7xux7FaKWrSzn8VTJDKpm7mI5uoLJg/export/pdf)
    - [Tratando eventos em JavaFX](https://docs.google.com/presentation/d/1T2tH7onXG6NT58PZsZsfaHkZtCBl05HuT-giPNkYf7Q/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1T2tH7onXG6NT58PZsZsfaHkZtCBl05HuT-giPNkYf7Q/export/pdf)
    - [Padrão Model-View-Controller](https://docs.google.com/presentation/d/1QQVkxV3IgNUGbrAFAn4deeRvvf5m1M9OPguKnef5aec/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1QQVkxV3IgNUGbrAFAn4deeRvvf5m1M9OPguKnef5aec/export/pdf)
