@@ -8,16 +8,16 @@ Esta prática tem por objetivo exercitar os conceitos de programação orientada
 
 3. Dentro do método principal, crie um objeto chamado dataNascimento da classe Data passando como parâmetro 3 inteiros que represtam respectivamente o dia, mes e ano de uma determinada data.
 
-Tente compilar esse código. Qual foi o motivo deste erro? 
+   Tente compilar esse código. Qual foi o motivo deste erro? 
 
-Corrija o método construtor para que ele receba os parâmetros passados na criação do objeto. Acrescente os atributos mes e ano do tipo int seguindo à estrutura existente na classe Data e ajuste o método construtor para ele inicialize os atributos da classe.
+   Corrija o método construtor para que ele receba os parâmetros passados na criação do objeto. Acrescente os atributos mes e ano do tipo int seguindo à estrutura existente na classe Data e ajuste o método construtor para ele inicialize os atributos da classe.
 
 4. Agora vamos exibir os atributos da data criada, para isso adicione o seguinte código  dentro do método `main` em AppData.
    ```java
    System.out.println(dataNascimento.dia + "/" + dataNascimento.mes + "/" +     dataNascimento.ano);
    ```
 
-Recompile e execute novamente o arquivo AppData e veja que a saída será os valores que foram passados na criação do objeto. 
+   Recompile e execute novamente o arquivo AppData e veja que a saída será os valores que foram passados na criação do objeto. 
 
 5. Modifique os valor dos atributos do objeto com a instrução abaixo e exiba os dados na tela depois de modificar os atributos do objeto.
    ```java
