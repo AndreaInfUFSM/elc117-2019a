@@ -22,7 +22,7 @@ Slides
 
 - Paradigma orientado a objetos
    - [Introdução à programação orientada a objetos](https://drive.google.com/open?id=1S3Deuzbxmx71AIxZufadF7MTFq26WQ3_4ug4AtXcXi4) [(PDF)](https://docs.google.com/presentation/d/1S3Deuzbxmx71AIxZufadF7MTFq26WQ3_4ug4AtXcXi4/export/pdf)
-   - Encapsulamento, classes e objetos em Java: [slides resumidos](https://drive.google.com/open?id=1gVL3iW0lVzdgd9AsydBhKV-0xmP8-zYIfx_ujlBGDR4)|[slides detalhados (Marco Antoni)](https://docs.google.com/presentation/d/1JdjZ1zvop1Y_OyR3dyYEbGhbSwpFTMPItdv95n_PgiE/edit?usp=sharing)
+   - Encapsulamento, classes e objetos em Java: [slides resumidos](https://drive.google.com/open?id=1gVL3iW0lVzdgd9AsydBhKV-0xmP8-zYIfx_ujlBGDR4) | [slides detalhados (Marco Antoni)](https://docs.google.com/presentation/d/1JdjZ1zvop1Y_OyR3dyYEbGhbSwpFTMPItdv95n_PgiE/edit?usp=sharing)
    - [Uso de static em Java](https://drive.google.com/open?id=1k91FdgKAtmLQAyRfXFNjb9gRRE-x4uPdvse1n1XpcKs) [(PDF)](https://docs.google.com/presentation/d/1k91FdgKAtmLQAyRfXFNjb9gRRE-x4uPdvse1n1XpcKs/export/pdf)
    - [Herança em Java](https://drive.google.com/open?id=1aOk2_Tuf37KRNUo1bvrDXFQe9o_J2PLEY19eJaZE59w) [(PDF)](https://docs.google.com/presentation/d/1aOk2_Tuf37KRNUo1bvrDXFQe9o_J2PLEY19eJaZE59w/export/pdf)
    - [Polimorfismo em Java](https://drive.google.com/open?id=1RloxoaouSMFlVk7p3phR8cUbW3AyyeU3z08i9frApZY) [(PDF)](https://docs.google.com/presentation/d/1RloxoaouSMFlVk7p3phR8cUbW3AyyeU3z08i9frApZY/export/pdf)
