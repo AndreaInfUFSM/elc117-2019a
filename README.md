@@ -1,5 +1,5 @@
 # Paradigmas de Programação - ELC117-2019a
-[Sobre a disciplina](#sobre-a-disciplina) | [Avaliações](#avaliações) | [Slides](#slides) | [Trabalhos](#trabalhos) | [Práticas](#práticas)
+[Sobre a disciplina](#sobre-a-disciplina) | [Avaliações](#avaliações) | [Slides](#slides) | [Trabalhos](#trabalhos) | [Práticas](#práticas) | Quizzes (#quizzes)
 
 
 Primeiro semestre de 2019  
@@ -26,7 +26,11 @@ Sala: 368, CT - Práticas: 334, CT
  - Avaliação final (exame): 15/07/2019  
 
 
+## Quizzes
 
+ - Testes (quizzes) de Prolog com correção automática: [(1)](https://testmoz.com/466816) [(2)](https://testmoz.com/466920)
+ - Testes (quizzes) de Haskell com correção automática: [(1)](https://testmoz.com/471285/) [(2)](https://testmoz.com/471302/)
+ 
 
 ## Slides
 
@@ -34,13 +38,7 @@ Disponíveis na pasta [slides](slides).
 
 ## Práticas
 
- - Testes (quizzes) de Prolog com correção automática: [(1)](https://testmoz.com/466816) [(2)](https://testmoz.com/466920)
- - Prolog: [(1)](praticas/logico/prolog1) [(2)](praticas/logico/prolog2) [(3)](praticas/logico/prolog3) [(4)](praticas/logico/prolog4)
- - Testes (quizzes) de Haskell com correção automática: [(1)](https://testmoz.com/471285/) [(2)](https://testmoz.com/471302/)
- - Haskell: [(1)](praticas/funcional/haskell01) [(2)](praticas/funcional/haskell02) [(3)](praticas/funcional/haskell03) [(4)](praticas/funcional/haskell04) 
-
-Veja também a pasta [praticas](praticas). 
-
+Disponíveis na pasta [praticas](praticas). 
 
 
 ## Trabalhos
