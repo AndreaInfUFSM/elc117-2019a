@@ -1,5 +1,5 @@
 # Paradigmas de Programação - ELC117-2019a
-[Sobre a disciplina](#sobre-a-disciplina) | [Avaliações](#avaliações) | [Slides](#slides) | [Trabalhos](#trabalhos) | [Práticas](#práticas) | Quizzes(#quizzes)
+[Sobre a disciplina](#sobre-a-disciplina) | [Avaliações](#avaliações) | [Slides](#slides) | [Trabalhos](#trabalhos) | [Práticas](#práticas) | [Quizzes](#quizzes)
 
 
 Primeiro semestre de 2019  
