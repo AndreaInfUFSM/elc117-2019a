@@ -1,5 +1,5 @@
 # Paradigmas de Programação - ELC117-2019a
-[Sobre a disciplina](#sobre-a-disciplina) | [Avaliações](#avaliações) | [Slides](#slides) | [Trabalhos](#trabalhos) | [Práticas](#práticas) | Quizzes (#quizzes)
+[Sobre a disciplina](#sobre-a-disciplina) | [Avaliações](#avaliações) | [Slides](#slides) | [Trabalhos](#trabalhos) | [Práticas](#práticas) | Quizzes(#quizzes)
 
 
 Primeiro semestre de 2019  
@@ -30,6 +30,7 @@ Sala: 368, CT - Práticas: 334, CT
 
  - Testes (quizzes) de Prolog com correção automática: [(1)](https://testmoz.com/466816) [(2)](https://testmoz.com/466920)
  - Testes (quizzes) de Haskell com correção automática: [(1)](https://testmoz.com/471285/) [(2)](https://testmoz.com/471302/)
+ - Testes (quizzes) de Java com correção automática: [(1)](https://testmoz.com/2090367) [(2)](https://testmoz.com/2132271)
  
 
 ## Slides
