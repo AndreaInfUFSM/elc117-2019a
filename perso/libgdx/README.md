@@ -9,24 +9,24 @@ Estas sugestões de atividades personalizadas são para quem se interessa por de
 ### Preparação
 
 1. Crie um clone do repositório [https://github.com/AndreaInfUFSM/java-libgdx-simple-drop-example](https://github.com/AndreaInfUFSM/java-libgdx-simple-drop-example). 
-```
-git clone https://github.com/AndreaInfUFSM/java-libgdx-simple-drop-example.git
-```
-Este repositório contém um jogo simples explicado em https://github.com/libgdx/libgdx/wiki/A-simple-game
+   ```
+   git clone https://github.com/AndreaInfUFSM/java-libgdx-simple-drop-example.git
+   ```
+   Este repositório contém um jogo simples explicado em https://github.com/libgdx/libgdx/wiki/A-simple-game
 
 
 2. Compile e execute o jogo:
-```
-cd java-libgdx-simple-drop-example
-./gradlew desktop:run
-```
-Obs.: A primeira compilação é demorada.
+   ```
+   cd java-libgdx-simple-drop-example
+   ./gradlew desktop:run
+   ```
+   Obs.: A primeira compilação é demorada.
 
-2. Abra os 2 arquivos que contêm o código do jogo para desktop:
+3. Abra os 2 arquivos que contêm o código do jogo para desktop:
    - [desktop/src/com/badlogic/drop/desktop/DesktopLauncher.java](https://github.com/AndreaInfUFSM/java-libgdx-simple-drop-example/blob/master/desktop/src/com/badlogic/drop/desktop/DesktopLauncher.java) 
    - [core/src/com/badlogic/drop/Drop.java](https://github.com/AndreaInfUFSM/java-libgdx-simple-drop-example/blob/master/core/src/com/badlogic/drop/Drop.java)
 
-3. Examine o código e responda às questões a seguir.
+4. Examine o código e responda às questões a seguir.
 
 
 ### Questões
@@ -52,23 +52,23 @@ Entregue esta atividade separadamente no formulário de entrega de atividades pe
 ### Preparação
 
 1. Crie um clone do repositório [https://github.com/AndreaInfUFSM/java-libgdx-extended-drop-example](https://github.com/AndreaInfUFSM/java-libgdx-extended-drop-example). 
-```
-git clone https://github.com/AndreaInfUFSM/java-libgdx-simple-drop-example.git
-```
-Este repositório contém uma extensão do jogo anterior, conforme explicado em https://github.com/libgdx/libgdx/wiki/Extending-the-simple-game
+   ```
+   git clone https://github.com/AndreaInfUFSM/java-libgdx-simple-drop-example.git
+   ```
+   Este repositório contém uma extensão do jogo anterior, conforme explicado em https://github.com/libgdx/libgdx/wiki/Extending-the-simple-game
 
 2. Compile e execute o jogo:
-```
-cd java-libgdx-extended-drop-example
-./gradlew desktop:run
-```
+   ```
+   cd java-libgdx-extended-drop-example
+   ./gradlew desktop:run
+   ```
 
-2. Abra os arquivos que implementam a versão estendida do jogo: 
+3. Abra os arquivos que implementam a versão estendida do jogo: 
    - [core/src/com/badlogic/drop/Drop.java](https://github.com/AndreaInfUFSM/java-libgdx-extended-drop-example/blob/master/core/src/com/badlogic/drop/Drop.java)
    - [core/src/com/badlogic/drop/GameScreen.java](https://github.com/AndreaInfUFSM/java-libgdx-extended-drop-example/blob/master/core/src/com/badlogic/drop/GameScreen.java)
    - [core/src/com/badlogic/drop/MainMenuScreen.java](https://github.com/AndreaInfUFSM/java-libgdx-extended-drop-example/blob/master/core/src/com/badlogic/drop/MainMenuScreen.java)
 
-3. Observe as mudanças no código: agora o jogo Drop tem duas telas, uma tela inicial (MainMenuScreen) e outra tela com o jogo em si (GameScreen). Além disso, agora o jogo mostra a quantidade de gotas recolhidas no balde.
+4. Observe as mudanças no código: agora o jogo Drop tem duas telas, uma tela inicial (MainMenuScreen) e outra tela com o jogo em si (GameScreen). Além disso, agora o jogo mostra a quantidade de gotas recolhidas no balde.
 
 ### Programação
 
