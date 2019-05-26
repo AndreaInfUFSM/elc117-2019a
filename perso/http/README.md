@@ -53,6 +53,7 @@ Entregue esta atividade separadamente no formulário de entrega de atividades pe
 
 4. Você deve ter notado que os argumentos na linha de comando são representados por um [Array](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html) em Java. A JVM é responsável por criar o array e passá-lo ao método main. Em Java, o tamanho de um array é fixo após a sua criação, ou seja, não se pode retirar ou adicionar elementos (isso é possível com outras classes do framework [Collections](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/overview.html) do Java). De qualquer forma, um array em Java é um objeto e podemos obter seu tamanho. Por exemplo, para o array designado por `args`, podemos descobrir seu tamanho com `args.length`. Responda: `length` é um método ou um atributo do array? Você consegue deduzir sua visibilidade (public, private, protected)?
 
+Entregue esta atividade separadamente no formulário de entrega de atividades personalizadas.
 
 
 
