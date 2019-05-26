@@ -35,6 +35,28 @@ Entregue esta atividade separadamente no formulário de entrega de atividades pe
 
 ## Atividade 2
 
-Em breve aqui: sugestão de atividade que envia requisição GET. :-D
+1. Baixe o programa [DemoGet.java](DemoGet.java). Este programa envia uma requisição GET a um serviço Web que retorna [piadas sobre Chuck Norris](https://api.chucknorris.io/jokes/random) :-) 
+
+2. Compile e execute o programa:
+   ```
+   javac DemoGet.java
+   java DemoGet
+   ```
+   Obs.: O programa depende de uma conexão Internet ativa. Se tudo der certo, a saída será uma string em formato JSON, contendo o texto da piada e outros atributos.
+
+3. Examine o código e veja que a URL do serviço Web é fixa (hard-coded). Altere o programa para permitir que a URL seja passada pelo usuário na linha de comando, a cada execução do programa. Para isso, estude a seção sobre [Command-Line Arguments](https://docs.oracle.com/javase/tutorial/essential/environment/cmdLineArgs.html) do Tutorial Java da Oracle. Teste seu novo programa com outras URLs:
+   ```
+   java DemoGet https://reqres.in/api/users
+   java DemoGet https://reqres.in/api/users?page=2
+   ```
+
+
+4. Você deve ter notado que os argumentos na linha de comando são representados por um [Array](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html) em Java. A JVM é responsável por criar o array e passá-lo ao método main. Em Java, o tamanho de um array é fixo após a sua criação, ou seja, não se pode retirar ou adicionar elementos (isso é possível com outras classes do framework [Collections](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/overview.html) do Java). De qualquer forma, um array em Java é um objeto e podemos descobrir seu tamanho. Por exemplo, para o array designado por `args`, podemos descobrir seu tamanho com `args.length`. Responda: `length` é um método ou um atributo do array? Você consegue deduzir sua visibilidade (public, private, protected)?
+
+
+
+
+
+
 
 
