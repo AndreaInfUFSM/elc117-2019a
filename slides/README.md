@@ -21,15 +21,14 @@ Slides
 
 
 - Paradigma orientado a objetos
-   - [Introdução à programação orientada a objetos](https://drive.google.com/open?id=1S3Deuzbxmx71AIxZufadF7MTFq26WQ3_4ug4AtXcXi4) [(PDF)](https://docs.google.com/presentation/d/1S3Deuzbxmx71AIxZufadF7MTFq26WQ3_4ug4AtXcXi4/export/pdf)
+   - [Introdução à programação orientada a objetos](https://drive.google.com/open?id=1S3Deuzbxmx71AIxZufadF7MTFq26WQ3_4ug4AtXcXi4)
    - Encapsulamento, classes e objetos em Java: [slides resumidos](https://drive.google.com/open?id=1gVL3iW0lVzdgd9AsydBhKV-0xmP8-zYIfx_ujlBGDR4) | [slides detalhados (Marco Antoni)](https://docs.google.com/presentation/d/1JdjZ1zvop1Y_OyR3dyYEbGhbSwpFTMPItdv95n_PgiE/edit?usp=sharing)
-   - [Uso de static em Java](https://drive.google.com/open?id=1k91FdgKAtmLQAyRfXFNjb9gRRE-x4uPdvse1n1XpcKs) [(PDF)](https://docs.google.com/presentation/d/1k91FdgKAtmLQAyRfXFNjb9gRRE-x4uPdvse1n1XpcKs/export/pdf)
+   - [Uso de static em Java](https://drive.google.com/open?id=1k91FdgKAtmLQAyRfXFNjb9gRRE-x4uPdvse1n1XpcKs) 
    - Herança em Java: [slides resumidos](https://docs.google.com/presentation/d/1AvrAo8FCV3Ailms0IoDNqa52q_oitqUG-zE-rbXktn0/edit?usp=sharing) | slides detalhados (Karina Wiechork) [(1)](https://docs.google.com/presentation/d/1EDUTLI4iwkdbTYTWDQjSnZF2ZKlWEEeBHbqQvFtAv6E/edit?usp=sharing) [(2)](https://docs.google.com/presentation/d/1U3jyFz5I52mln8X3Ctv0vkTd_tM0uOXZ5jwL25nw9ys/edit?usp=sharing)
    - [Polimorfismo em Java](https://drive.google.com/open?id=1aOk2_Tuf37KRNUo1bvrDXFQe9o_J2PLEY19eJaZE59w) 
    - [Classes abstratas e interfaces](https://drive.google.com/open?id=1RloxoaouSMFlVk7p3phR8cUbW3AyyeU3z08i9frApZY) 
-
+   - [Interfaces gráficas em Java](https://docs.google.com/presentation/d/1foLaaktwGGrgQAGcfYnHL63n2XIb6jv1tDZYibS_g68/edit?usp=sharing) 
 <!--
-   - [Interfaces gráficas em Java](https://docs.google.com/presentation/d/1nwcBZscvpQDCY7xux7FaKWrSzn8VTJDKpm7mI5uoLJg/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1nwcBZscvpQDCY7xux7FaKWrSzn8VTJDKpm7mI5uoLJg/export/pdf)
    - [Tratando eventos em JavaFX](https://docs.google.com/presentation/d/1T2tH7onXG6NT58PZsZsfaHkZtCBl05HuT-giPNkYf7Q/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1T2tH7onXG6NT58PZsZsfaHkZtCBl05HuT-giPNkYf7Q/export/pdf)
    - [Padrão Model-View-Controller](https://docs.google.com/presentation/d/1QQVkxV3IgNUGbrAFAn4deeRvvf5m1M9OPguKnef5aec/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1QQVkxV3IgNUGbrAFAn4deeRvvf5m1M9OPguKnef5aec/export/pdf)
    - [TableView em JavaFX](https://docs.google.com/presentation/d/1zXat8hYWPcZDuodOCyp6tlFRgeWLlTbbgQAOhAjtRfM/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1zXat8hYWPcZDuodOCyp6tlFRgeWLlTbbgQAOhAjtRfM/export/pdf)
