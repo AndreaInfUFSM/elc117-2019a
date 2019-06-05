@@ -28,11 +28,11 @@ Slides
    - [Polimorfismo em Java](https://drive.google.com/open?id=1aOk2_Tuf37KRNUo1bvrDXFQe9o_J2PLEY19eJaZE59w) 
    - [Classes abstratas e interfaces](https://drive.google.com/open?id=1RloxoaouSMFlVk7p3phR8cUbW3AyyeU3z08i9frApZY) 
    - [Interfaces gráficas em Java](https://docs.google.com/presentation/d/1foLaaktwGGrgQAGcfYnHL63n2XIb6jv1tDZYibS_g68/edit?usp=sharing) 
+   - [Padrão Model-View-Controller](https://docs.google.com/presentation/d/1iR08-YYUaeuhczXfJTVxpblPK9ENVtaxD9l4dobxp4k/edit?usp=sharing) 
+   - [TableView em JavaFX](https://docs.google.com/presentation/d/11uSC-d5hOS5ZkVusmx6GstCLF-zY_DzqqFKW0dBYS6U/edit?usp=sharing) 
+   - [Exceções em Java](https://docs.google.com/presentation/d/1x5yeTPjAPTk-VWN3ooYNbiNaDxBzySv1DDeVEIovYOs/edit?usp=sharing) 
 <!--
-   - [Tratando eventos em JavaFX](https://docs.google.com/presentation/d/1T2tH7onXG6NT58PZsZsfaHkZtCBl05HuT-giPNkYf7Q/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1T2tH7onXG6NT58PZsZsfaHkZtCBl05HuT-giPNkYf7Q/export/pdf)
-   - [Padrão Model-View-Controller](https://docs.google.com/presentation/d/1QQVkxV3IgNUGbrAFAn4deeRvvf5m1M9OPguKnef5aec/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1QQVkxV3IgNUGbrAFAn4deeRvvf5m1M9OPguKnef5aec/export/pdf)
-   - [TableView em JavaFX](https://docs.google.com/presentation/d/1zXat8hYWPcZDuodOCyp6tlFRgeWLlTbbgQAOhAjtRfM/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1zXat8hYWPcZDuodOCyp6tlFRgeWLlTbbgQAOhAjtRfM/export/pdf)
-   - [Exceções em Java](https://docs.google.com/presentation/d/1HVoJcLVkVW8B35NGVyvynCEcG8RMjnPleHxpQyLrYwg/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1HVoJcLVkVW8B35NGVyvynCEcG8RMjnPleHxpQyLrYwg/export/pdf)
+
 - Programação concorrente
   - [Threads em Java](https://drive.google.com/file/d/1lY3Ys0k_bNgOcZCntxK7VcYKZhFEs1p6/view?usp=drivesdk)
   - [Problemas clássicos de programação concorrente](https://drive.google.com/file/d/1XoPe8UjF5Td4yBIGOsESlzMCtw9lwcvL/view?usp=drivesdk)
