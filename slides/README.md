@@ -31,13 +31,13 @@ Slides
    - [Padrão Model-View-Controller](https://docs.google.com/presentation/d/1iR08-YYUaeuhczXfJTVxpblPK9ENVtaxD9l4dobxp4k/edit?usp=sharing) 
    - [TableView em JavaFX](https://docs.google.com/presentation/d/11uSC-d5hOS5ZkVusmx6GstCLF-zY_DzqqFKW0dBYS6U/edit?usp=sharing) 
    - [Exceções em Java](https://docs.google.com/presentation/d/1x5yeTPjAPTk-VWN3ooYNbiNaDxBzySv1DDeVEIovYOs/edit?usp=sharing) 
-<!--
+
 
 - Programação concorrente
-  - [Threads em Java](https://drive.google.com/file/d/1lY3Ys0k_bNgOcZCntxK7VcYKZhFEs1p6/view?usp=drivesdk)
+  - [Threads em Java](https://drive.google.com/open?id=1P4c6MiUCAA7SxLSilfXwjrfBvxEzNK7r4yRswiDH8Qw)
   - [Problemas clássicos de programação concorrente](https://drive.google.com/file/d/1XoPe8UjF5Td4yBIGOsESlzMCtw9lwcvL/view?usp=drivesdk)
 
-
+<!--
 https://docs.google.com/presentation/d/1nTHSZMyDT0DxJpxd3nU4LPCDImgAuqvLC8XLzPibMnw/edit?usp=sharing
 
 https://drive.google.com/open?id=10M7otpa1_Z18zxB2__zvGbCofInx_CZ5lpbX_RvOooA
