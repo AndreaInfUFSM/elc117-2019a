@@ -35,7 +35,7 @@ Slides
 
 - Programação concorrente
   - [Threads em Java](https://drive.google.com/open?id=1Jr6To7uVSmybvInl5gu2ezQ-fbak2JSz0awADsk3yas)
-  - [Problemas clássicos de programação concorrente](https://drive.google.com/open?id=1P4c6MiUCAA7SxLSilfXwjrfBvxEzNK7r4yRswiDH8Qw)
+  - [Problemas da programação concorrente](https://drive.google.com/open?id=1P4c6MiUCAA7SxLSilfXwjrfBvxEzNK7r4yRswiDH8Qw)
 
 <!--
 https://docs.google.com/presentation/d/1nTHSZMyDT0DxJpxd3nU4LPCDImgAuqvLC8XLzPibMnw/edit?usp=sharing
