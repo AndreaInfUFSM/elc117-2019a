@@ -26,7 +26,7 @@ O programa com interface gráfica deverá conter os seguintes **componentes**:
   - No menu "Help", haverá somente um item "About", que mostrará o nome do programa e do autor.
 
 
-O programa deverá tratar as diversas **exceções** que podem ocorrer, por exemplo caso não se consiga obter os dados por falha na rede, URL inválida, arquivo corrompido, etc.
+O programa deverá tratar as diversas **exceções** que podem ocorrer, por exemplo caso o programa não consiga obter os dados por falha na rede, URL inválida, arquivo corrompido, etc. Para informar essas exceções ao usuário, você pode usar a classe [Alert](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/Alert.html) do JavaFX.
 
 
 ## Personalizadas
