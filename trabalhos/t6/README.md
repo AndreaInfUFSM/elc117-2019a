@@ -6,7 +6,7 @@ Domingo, 30 de junho, 23:55.
 
 ## Objetivo
 
-Neste trabalho, você vai desenvolver um programa orientado a objetos, usando JavaFX, para explorar uma planilha com dados do desempenho dos seus veteranos no [ENADE](http://inep.gov.br/enade) (Exame Nacional de Desemenho de Estudantes)! O ENADE é uma avaliação do MEC aplicada a concluintes de cursos de graduação, com periodicidade trienal. A próxima avaliação da área de Computação será para concluintes em 2020. Os dados das avaliações anteriores são públicos, mas estão distribuídos em diferentes documentos. Alguns dados relevantes para os cursos da área de Computação da UFSM foram compilados em uma planilha, e seu programa permitirá explorar esses dados para sanar algumas curiosidades :-D. 
+Neste trabalho, você vai desenvolver um programa orientado a objetos, usando JavaFX, para explorar uma planilha com dados do desempenho dos seus veteranos no [ENADE](http://inep.gov.br/enade) (Exame Nacional de Desempenho de Estudantes)! O ENADE é uma avaliação do MEC aplicada a concluintes de cursos de graduação, com periodicidade trienal. A próxima avaliação da área de Computação será para concluintes em 2020. Os dados das avaliações anteriores são públicos, mas estão distribuídos em diferentes documentos. Alguns dados relevantes para os cursos da área de Computação da UFSM foram compilados em uma planilha, e seu programa permitirá explorar esses dados para sanar algumas curiosidades :-D. 
 
 ## Requisitos
 
