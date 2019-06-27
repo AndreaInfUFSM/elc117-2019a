@@ -16,11 +16,15 @@ Em Java, há algumas classes no SDK que representam objetos JSON, mas com funcio
 
 Você pode baixar um .jar desta biblioteca [aqui](https://search.maven.org/remotecontent?filepath=com/google/code/gson/gson/2.8.5/gson-2.8.5.jar) (versão 2.8.5). Há várias outras formas de adicioná-la ao seu projeto. Por exemplo, veja este [vídeo](https://www.youtube.com/watch?v=sYDl720USow) que mostra uma forma de usar a GSON com Netbeans.
 
-O programa [DemoParseGithubWithGson.java](DemoParseGithubWithGson.java) ilustra o uso da GSON para obter uma lista de commits de um repositório e selecionar as datas desses commits. Uma forma simples de compilar e executar este programa, sem depender de ferramentas externas, é assim:
+O programa [DemoParseGithubWithGson.java](DemoParseGithubWithGson.java) ilustra o uso da GSON para obter uma lista de commits de um repositório e selecionar as datas desses commits. Uma forma simples de compilar e executar este programa no **Linux**, sem depender de ferramentas externas, é assim:
 ```
 javac -cp .:gson-2.8.5.jar DemoParseGithubWithGson.java
 java -cp .:gson-2.8.5.jar DemoParseGithubWithGson
-
+```
+No **Windows**, troque o separador ':' por ';':
+```
+javac -cp .;gson-2.8.5.jar DemoParseGithubWithGson.java
+java -cp .;gson-2.8.5.jar DemoParseGithubWithGson
 ```
 
 Observe que o programa mostra um cabeçalho da resposta onde constam informações de **paginação**. Isto existe porque o Github só retorna 30 commits por requisição, mas muitos repositórios têm bem mais do que isso. O cabeçalho, portanto, informa a próxima (next) e a última (last) páginas de commits. Por exemplo: https://api.github.com/repositories/32538871/commits?page=2 e https://api.github.com/repositories/32538871/commits?page=49.
