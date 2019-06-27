@@ -12,16 +12,16 @@ Neste trabalho, você vai desenvolver programas que usam a REST API do GitHub pa
 
 1. O programa `GitHubAnalyzerGUI` deverá ter uma **interface gráfica** com os seguintes componentes: 
 
-  - Uma barra de menus contendo um menu "File", um menu "Tools" e um menu "Help". 
+   - Uma barra de menus contendo um menu "File", um menu "Tools" e um menu "Help". 
 
-  - O menu "File" deverá conter os seguintes itens: 
-    - "Open": deverá abrir um FileChooser para seleção de um arquivo de texto. Esse arquivo deverá conter uma lista de URLs de repositórios no GitHub, um por linha. As URLs deverão ser lidas e apresentadas na interface gráfica em um componente como ListView ou TableView.
-    - "Exit": deverá fechar a aplicação. 
+   - O menu "File" deverá conter os seguintes itens: 
+     - "Open": deverá abrir um FileChooser para seleção de um arquivo de texto. Esse arquivo deverá conter uma lista de URLs de repositórios no GitHub, um por linha. As URLs deverão ser lidas e apresentadas na interface gráfica em um componente como ListView ou TableView.
+     - "Exit": deverá fechar a aplicação. 
 
-  - O menu "Tools" terá pelo menos o seguinte item:
-    - "Commit analyzer": deverá fazer requisições ao GitHub para obter a lista completa de commits de cada repositório, para depois extrair a data e a mensagem associada a cada commit. Seu ponto de partida será a [aula prática java8](../../praticas/oo/java8), lembrando que os resultados da REST API são paginados, portanto serão necessárias várias requisições para obter todos os dados. As requisições devem ser feitas uma por vez, mas o conjunto de requisições deve ser processado por uma thread separada da thread principal do programa, pois do contrário a interface gráfica poderá bloquear caso as requisições levem muito tempo para ser processadas. Após a obtenção dos dados, deverão ser exibidos, para cada repositório, o número de commits e o tamanho médio das mensagens desses commits (calculado a partir do tamanho de cada mensagem). Essas informações podem ser apresentadas na mesma janela ou em uma janela separada. **Atenção!** O GitHub limita a quantidade de requisições por hora (veja [aqui](https://developer.github.com/v3/#rate-limiting)), então é recomendável que, para testes, você armazene os resultados de algumas requisições em arquivos e obtenha as informações a partir deles.
+   - O menu "Tools" terá pelo menos o seguinte item:
+     - "Commit analyzer": deverá fazer requisições ao GitHub para obter a lista completa de commits de cada repositório, para depois extrair a data e a mensagem associada a cada commit. Seu ponto de partida será a [aula prática java8](../../praticas/oo/java8), lembrando que os resultados da REST API são paginados, portanto serão necessárias várias requisições para obter todos os dados. As requisições devem ser feitas uma por vez, mas o conjunto de requisições deve ser processado por uma thread separada da thread principal do programa, pois do contrário a interface gráfica poderá bloquear caso as requisições levem muito tempo para ser processadas. Após a obtenção dos dados, deverão ser exibidos, para cada repositório, o número de commits e o tamanho médio das mensagens desses commits (calculado a partir do tamanho de cada mensagem). Essas informações podem ser apresentadas na mesma janela ou em uma janela separada. **Atenção!** O GitHub limita a quantidade de requisições por hora (veja [aqui](https://developer.github.com/v3/#rate-limiting)), então é recomendável que, para testes, você armazene os resultados de algumas requisições em arquivos e obtenha as informações a partir deles.
 
-  - No menu "Help", haverá somente um item, "About", que mostrará o nome do programa e do autor.
+    - No menu "Help", haverá somente um item, "About", que mostrará o nome do programa e do autor.
 
 
 2. O programa deverá tratar as diversas **exceções** que podem ocorrer, por exemplo caso o programa não consiga obter os dados por falha na rede, URL inválida, etc.
