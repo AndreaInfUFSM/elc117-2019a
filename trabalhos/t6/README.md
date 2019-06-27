@@ -63,4 +63,5 @@ Você já deve ter notado que códigos em Java costumam seguir convenções dife
 - [Opening a new Window in JavaFX](https://o7planning.org/en/11533/opening-a-new-window-in-javafx)  
   Exemplos de código com criação de nova janela usando JavaFX.
 
- 
+- [Download a File from an URL in Java](https://www.baeldung.com/java-download-file)  
+  Diversas formas de implementar o download de um arquivo em Java.
