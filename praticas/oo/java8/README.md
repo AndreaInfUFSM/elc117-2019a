@@ -31,15 +31,15 @@ Observe que o programa mostra um cabeçalho da resposta onde constam informaçõ
 
 ## Exercícios
 
-1. Adicione uma estrutura de dados ao programa para armazenar as datas dos commits. Depois percorra esta estrutura e mostre seu conteúdo.
+1. Adicione uma **estrutura de dados** ao programa para armazenar as datas dos commits. Depois percorra esta estrutura e mostre seu conteúdo.
 
-2. Altere o programa para obter mais uma página de commits do repositório. Coloque os dados também na estrutura de dados.
+2. Altere o programa para obter **mais uma página** de commits do repositório. Coloque os dados também na estrutura de dados.
 
-3. Veja que o programa de demonstração não faz tratamento de exceção no meio do código, só faz `throws IOException` no método main. Remova isso do método main e compile o programa para ver as exceções que precisam ser tratadas (*checked exceptions*). Implemente o tratamento com try/catch e teste o programa em algumas situações excepcionais, por exemplo com URL inválida ou com URL de outro serviço web que retorne dados diferentes (por exemplo, este [aqui](https://api.chucknorris.io/jokes/random)).
+3. Veja que o programa de demonstração não faz tratamento de exceção no meio do código, só faz `throws IOException` no método main. Remova isso do método main e compile o programa para ver as exceções que precisam ser tratadas (*checked exceptions*). Implemente o **tratamento de exceções** com try/catch e teste o programa em algumas situações excepcionais, por exemplo com URL inválida ou com URL de outro serviço web que retorne dados diferentes (por exemplo, este [aqui](https://api.chucknorris.io/jokes/random)).
 
-4. Usando o programa de demonstração como referência, crie um programa com 2 threads cooperantes: (a) uma que faz a requisição web e obtém um JsonArray com a resposta e (b) outra que processa o JsonArray e insere os elementos em uma estrutura de dados. 
+4. Usando o programa de demonstração como referência, crie um programa com **2 threads cooperantes**: (a) uma que faz a requisição web e obtém um JsonArray com a resposta e (b) outra que processa o JsonArray e insere os elementos em uma estrutura de dados. 
 
-5. Altere o programa anterior para obter outros atributos dos commits, por exemplo: `name` do `commiter` ou `message` do `commit`.
+5. Altere o programa anterior para obter **outros atributos dos commits**, por exemplo: `name` do `commiter` ou `message` do `commit`.
 
 6. Usando GSON, é fácil usar JSON para representar objetos em Java: as chaves e valores em JSON correspondem respectivamente a nomes e valores de atributos de instâncias de uma classe. Faça um programa seguindo as dicas [deste tutorial](http://tutorials.jenkov.com/java-json/gson.html#parsing-json-into-java-objects), definindo uma classe `Car` e fazendo a leitura/escrita de um objeto desta classe de/para o formato JSON.
 
