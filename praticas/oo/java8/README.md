@@ -39,7 +39,7 @@ Observe que o programa mostra um cabeçalho da resposta onde constam informaçõ
 
 4. Usando o programa de demonstração como referência, crie um programa com **2 threads cooperantes**: (a) uma que faz a requisição web e obtém um JsonArray com a resposta e (b) outra que processa o JsonArray e insere os elementos em uma estrutura de dados. 
 
-5. Altere o programa anterior para obter **outros atributos dos commits**, por exemplo: `name` do `commiter` ou `message` do `commit`.
+5. Altere o programa anterior para obter **outros atributos dos commits**, por exemplo: `name` do `committer` ou `message` do `commit`.
 
 6. Usando GSON, é fácil usar JSON para representar objetos em Java: as chaves e valores em JSON correspondem respectivamente a nomes e valores de atributos de instâncias de uma classe. Faça um programa seguindo as dicas [deste tutorial](http://tutorials.jenkov.com/java-json/gson.html#parsing-json-into-java-objects), definindo uma classe `Car` e fazendo a leitura/escrita de um objeto desta classe de/para o formato JSON.
 
