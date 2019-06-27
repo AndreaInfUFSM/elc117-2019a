@@ -22,7 +22,7 @@ Sala: 368, CT - Práticas: 334, CT
  - [Entrega de atividades personalizadas](https://docs.google.com/forms/d/e/1FAIpQLSeLcmaFYzm42CEMQE7Lvz9FXOoZt4LLmVr1FE6RR2qSiinEtg/viewform): coloque suas atividades dentro de uma pasta `perso` no seu repositório e preencha este formulário
  - Datas para avaliações orais:  
    - Primeiro bimestre: 06 e 08/05/2019  
-   - Segundo bimestre: [03 e ~~08~~10/07/2019](https://docs.google.com/document/d/1O-9CPJcJL8tzE3jVNGUnkfEYodQMEJm0JuHrcIGcpEw/edit?usp=sharing)
+   - Segundo bimestre: [03 e ~~08~~ 10/07/2019](https://docs.google.com/document/d/1O-9CPJcJL8tzE3jVNGUnkfEYodQMEJm0JuHrcIGcpEw/edit?usp=sharing)
  - Avaliação final (exame): 15/07/2019  
 
 
