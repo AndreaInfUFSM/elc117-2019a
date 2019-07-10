@@ -54,6 +54,6 @@ Você já deve ter notado que códigos em Java costumam seguir convenções dife
 
  2. Você deve ter um repositório local da disciplina, que é um clone do repositório remoto. Neste repositório local, crie uma pasta chamada `t5` (atenção: **letra minúscula**).
 
- 3. Todos os arquivo do seu trabalho deverão ficar dentro da pasta `t5`, podendo estar em sub-pastas, se necessário. Os arquivos RandomPickerCmd.java e RandomPickerGUI.java, que vão conter as funções `main`, deverão ser nomeados exatamente desta forma. Os demais arquivos serão nomeados de acordo com seu conteúdo, seguindo as convenções para Java.
+ 3. Todos os arquivo do seu trabalho deverão ficar dentro da pasta `t5`, podendo estar em sub-pastas, se necessário. Os arquivos RandomPickerCmd.java e RandomPickerGUI.java, que vão conter os métodos `main`, deverão ser nomeados exatamente desta forma. Os demais arquivos serão nomeados de acordo com seu conteúdo, seguindo as convenções para Java.
 
  4. Arquivos gerados pelo seu IDE também devem ser entregues, em especial o arquivo contendo configurações para compilação do código (ex.: build.xml). 
