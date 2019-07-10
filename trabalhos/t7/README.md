@@ -57,7 +57,7 @@ Você já deve ter notado que códigos em Java costumam seguir convenções dife
 
  2. Você deve ter um repositório local da disciplina, que é um clone do repositório remoto. Neste repositório local, crie uma pasta chamada `t7` (atenção: **letra minúscula**).
 
- 3. Todos os arquivo do seu trabalho deverão ficar dentro da pasta `t7`, podendo estar em sub-pastas, se necessário. As funções `main` devem ficar nos arquivos`GitHubAnalyzerGUI.java` e `GitHubAnalyzerCmd.java`, nomeados **exatamente** desta forma. 
+ 3. Todos os arquivo do seu trabalho deverão ficar dentro da pasta `t7`, podendo estar em sub-pastas, se necessário. Os métodos `main` devem ficar nos arquivos`GitHubAnalyzerGUI.java` e `GitHubAnalyzerCmd.java`, nomeados **exatamente** desta forma. 
 
  4. Arquivos gerados pelo seu IDE também devem ser entregues. Em especial, inclua o arquivo contendo configurações para compilação do código (ex.: build.xml). 
 
