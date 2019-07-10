@@ -49,7 +49,7 @@ Você já deve ter notado que códigos em Java costumam seguir convenções dife
 
  2. Você deve ter um repositório local da disciplina, que é um clone do repositório remoto. Neste repositório local, crie uma pasta chamada `t6` (atenção: **letra minúscula**).
 
- 3. Todos os arquivo do seu trabalho deverão ficar dentro da pasta `t6`, podendo estar em sub-pastas, se necessário. A função `main` deverá estar no arquivo `EnadeUFSMExplorer.java`, nomeado **exatamente** desta forma. 
+ 3. Todos os arquivo do seu trabalho deverão ficar dentro da pasta `t6`, podendo estar em sub-pastas, se necessário. O método `main` deverá estar no arquivo `EnadeUFSMExplorer.java`, nomeado **exatamente** desta forma. 
 
  4. Arquivos gerados pelo seu IDE também devem ser entregues, em especial o arquivo contendo configurações para compilação do código (ex.: build.xml). 
 
